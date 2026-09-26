@@ -1,0 +1,50 @@
+[
+  {
+    "nombre": "Banco Nación · Descuentos",
+    "archivo": "banco-nacion",
+    "url": "https://www.bna.com.ar/Personas/DescuentosYPromociones",
+    "seccion": "main"
+  },
+  {
+    "nombre": "MODO · Promociones",
+    "archivo": "modo",
+    "url": "https://www.modo.com.ar/promos",
+    "seccion": "body"
+  },
+  {
+    "nombre": "Banco Provincia · Cuenta DNI",
+    "archivo": "cuenta-dni",
+    "url": "https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/",
+    "seccion": "body"
+  },
+  {
+    "nombre": "Banco Macro · Beneficios",
+    "archivo": "macro",
+    "url": "https://www.macro.com.ar/beneficios",
+    "seccion": "body"
+  },
+  {
+    "nombre": "Naranja X · Promociones",
+    "archivo": "naranja-x",
+    "url": "https://www.naranjax.com/promociones",
+    "seccion": "body"
+  },
+  {
+    "nombre": "ChangoMás · Promociones bancarias",
+    "archivo": "changomas",
+    "url": "https://www.masonline.com.ar/promociones-bancarias",
+    "seccion": "body"
+  },
+  {
+    "nombre": "Carrefour · Descuentos bancarios",
+    "archivo": "carrefour",
+    "url": "https://www.carrefour.com.ar/descuentos-bancarios",
+    "seccion": "body"
+  },
+  {
+    "nombre": "Coto · Descuentos",
+    "archivo": "coto",
+    "url": "https://www.coto.com.ar/descuentos",
+    "seccion": "body"
+  }
+]
