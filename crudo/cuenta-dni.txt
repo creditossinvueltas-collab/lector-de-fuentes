@@ -1,0 +1,89 @@
+# fuente: Banco Provincia · Cuenta DNI
+# url: https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/
+# leido: 2026-09-26
+# hash: 798d628b
+# caracteres: 1492
+# ---------------------------------------------------------------
+# Esto es el texto tal cual lo mostró la página. No está interpretado.
+# ---------------------------------------------------------------
+
+[imagen: logonuevocuentadniperro]
+[imagen: Descargar App Cuenta DNI Google Play]
+[imagen: Descargar App Cuenta DNI App Store]
+Personas
+Comercios
+Beneficios
+FILTRAR POR RUBRO:
+Todos
+Alimentos
+Garrafas
+Promo Acumulable
+Supermercados
+Varios
+¿Tenés un comercio y querés participar de nuestras promociones?
+Conocé más
+Lunes
+[imagen: dia 200 122]
+20
+[imagen: porciento]
+de ahorro
+Con la aplicación Cuenta DNI
+Conocé más
+Lunes y martes
+[imagen: librerias pictograma]
+10
+[imagen: porciento]
+de ahorro
+Con la aplicación Cuenta DNI
+Lunes a jueves
+[imagen: 3arroyosespecial]
+15
+Lunes a viernes
+[imagen: icono comercios de barrio]
+20
+Martes
+[imagen: toledo cdni]
+Martes y miércoles
+[imagen: supermercado verde]
+15
+Miércoles
+[imagen: iconoc carrefour front]
+10
+Miércoles
+[imagen: la anonima 200 122]
+[imagen: logo josimar 130]
+[imagen: logo sodimac 200x130]
+Miércoles y jueves
+[imagen: perfumeria pictograma]
+Jueves y viernes
+[imagen: logo mostaza 200x130]
+30
+Jueves
+[imagen: logo changomas]
+Viernes y sábado
+[imagen: logo supercoop]
+Sábado y domingo
+[imagen: LOGO YPF FULL]
+25
+Sábado y domingo
+[imagen: gastronomia invierno2025]
+25
+Sábado
+[imagen: petvetlogo]
+30
+Viernes y sábado
+[imagen: logo coop obrera]
+Todos los días
+[imagen: icono garrafas]
+40
+Todos los días
+[imagen: icono universidades]
+40
+[imagen: marcas destacadas]
+[imagen: provincia]
+[imagen: pictograma cuotas]
+cuotas
+sin interés
+Con tus tarjetas de crédito
+adheridas a Cuenta DNI
+Hay más beneficios por ser cliente del Banco, conocelos acá.
