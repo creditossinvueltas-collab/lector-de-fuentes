@@ -1,0 +1,54 @@
+# Lector de fuentes.
+#
+# Dos veces por semana abre las páginas oficiales de bancos y comercios con un
+# navegador de verdad, y guarda el texto que quedó visible en la carpeta crudo/.
+#
+# Esto resuelve el problema que tenía el robot: casi todas esas páginas arman
+# las promociones con JavaScript, así que bajar el HTML no servía de nada.
+#
+# Es gratis: usa unos 8 minutos por mes de los 2.000 que GitHub da sin cargo.
+
+name: Leer fuentes
+
+on:
+  schedule:
+    # 11:00 UTC = 8:00 en Argentina, lunes y jueves.
+    # Una hora antes de que corra el robot, para que encuentre datos frescos.
+    - cron: '0 11 * * 1,4'
+  workflow_dispatch:
+
+jobs:
+  leer:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    permissions:
+      contents: write
+
+    steps:
+      - name: Traer el repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Instalar el navegador
+        run: |
+          npm install --no-audit --no-fund
+          npx playwright install --with-deps chromium
+
+      - name: Leer las fuentes
+        run: node leer.mjs
+
+      - name: Guardar lo leído
+        run: |
+          git config user.name  "Lector de fuentes"
+          git config user.email "actions@github.com"
+          git add crudo/
+          if git diff --staged --quiet; then
+            echo "Ninguna fuente cambió desde la última vez."
+          else
+            git commit -m "Fuentes leídas · $(date -u +'%Y-%m-%d')"
+            git push
+          fi
