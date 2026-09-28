@@ -1,8 +1,8 @@
 # fuente: Naranja X · Promociones
 # url: https://www.naranjax.com/promociones
-# leido: 2026-09-26
-# hash: 13c1d9d6
-# caracteres: 4429
+# leido: 2026-09-28
+# hash: a01afaf0
+# caracteres: 4425
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -20,7 +20,7 @@ Dinero
 Beneficios
 Seguros
 Somos NX
-Des Moines
+Boydton
 [imagen: Icono filtro]
 [imagen: HEADER.OPEN FILTERS]
 Medios de pago
@@ -41,13 +41,12 @@ Salud y bienestar
 Hogar y deco
 Construcción
 Ver más
-Todos los días
-3 cuotas cero interés
-Plan Z
-En súper
+Lunes y martes
+Hasta 20% OFF + 9 cuotas cero interés
+En deportes
 [imagen: nx icon]
 Crédito
-[imagen: 3 cuotas cero interés]
+[imagen: Hasta 20% OFF + 9 cuotas cero interés]
 [imagen: 1 / 4]
 Todos los días
 Hasta 12 cuotas cero interés
@@ -57,11 +56,11 @@ Electro y tecnología
 Crédito
 [imagen: Hasta 12 cuotas cero interés]
 [imagen: 2 / 4]
-Del 21 al 27 de septiembre
-20% OFF en vuelos a Brasil
-Cupón BRVNX26
+Todos los días
+12 cuotas cero interés
+En vuelo, paquetes y más
 Viajes Naranja X
-[imagen: 20% OFF en vuelos a Brasil]
+[imagen: 12 cuotas cero interés]
 [imagen: 3 / 4]
 Enterate de las promos antes que nadie
 Sumate a nuestro canal de WhatsApp
@@ -88,14 +87,13 @@ Conocer más
 Especial
 [imagen: Card Brand Image]
 Hasta 14 cuotas cero interés
-Todos los días en On City
-Especial
-Hasta 14 cuotas cero interés
 Todos los días en Casa del Audio
+Hasta 14 cuotas cero interés
+Todos los días en Megatone
 Todos los días en Samsung
 Hasta 12 cuotas cero interés
 Todos los días en Whirlpool
-Todos los días en Megatone
+Todos los días en On City
 Todos los días en Cetrogar
 Todos los días en Naldo
 Todos los días en Fravega
@@ -107,43 +105,44 @@ Hasta 25% off y 12 cuotas cero interés
 Todos los días en Viajes Naranjax
 Débito
 Hasta 10% off y 6 cuotas cero interés
-Todos los días en Flecha Bus
 Todos los días en General Urquiza Transportes
-Todos los días en El Practico
-Todos los días en Chevallier
-Todos los días en La Veloz del Norte
-Todos los días en Plusmar
 Todos los días en Andesmar
+Todos los días en Chevallier
+Todos los días en Plusmar
+Todos los días en La Veloz del Norte
+Todos los días en El Norte
+Todos los días en Flecha Bus
 Cuotas y descuentos en hogar y jardín
 [imagen: Conocer más sobre Cuotas y descuentos en hogar y jardín]
-Todos los días en La Cardeuse
 Todos los días en Simmons
+Todos los días en La Cardeuse
 10% off y 9 cuotas cero interés
 Los martes en Shopgallery
-Hasta 6 cuotas cero interés
-Todos los días en Rouge Maison
-Hasta 10% off y 12 cuotas cero interés
+12 cuotas cero interés
 Todos los días en Essen
 Todos los días en Piero
-Todos los días en Suavegom
+Todos los días en Cannon
+Todos los días en Suavestar
 Todos los días en Rosen
 Cuotas y descuentos en indumentaria deportiva
 [imagen: Conocer más sobre Cuotas y descuentos en indumentaria deportiva]
 Hasta 20% off y 9 cuotas cero interés
 Días seleccionados en Moov
-Hasta 8 cuotas cero interés
-Días seleccionados en On Sports
+Especial
 Hasta 5 cuotas cero interés
 Días seleccionados en Sweet
-Hasta 8 cuotas cero interés
-Días seleccionados en In Store
 Hasta 10% off y 5 cuotas cero interés
 Todos los días en Complot
-Hasta 6 cuotas cero interés
-Todos los días en Falabella Venta Telefonica - P
-Todos los días en Falabella Venta Telefonica
+Hasta 8 cuotas cero interés
+Días seleccionados en In Store
+Hasta 8 cuotas cero interés
+Días seleccionados en On Sports
 Hasta 20% off y 6 cuotas cero interés
 Días seleccionados en Exit
+Hasta 6 cuotas cero interés
+Todos los días en Falabella Venta Telefonica - P
+Hasta 6 cuotas cero interés
+Todos los días en Falabella Venta Por Internet -
 [imagen: Logo de Naranja X]
 Descargá la app y disfrutá los beneficios
 Descargar app

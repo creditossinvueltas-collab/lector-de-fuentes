@@ -1,8 +1,8 @@
 # fuente: Banco Provincia · Cuenta DNI
 # url: https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/
-# leido: 2026-09-26
-# hash: 798d628b
-# caracteres: 1492
+# leido: 2026-09-28
+# hash: 214d043e
+# caracteres: 1409
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -65,12 +65,6 @@ Viernes y sábado
 Sábado y domingo
 [imagen: LOGO YPF FULL]
 25
-Sábado y domingo
-[imagen: gastronomia invierno2025]
-25
-Sábado
-[imagen: petvetlogo]
-30
 Viernes y sábado
 [imagen: logo coop obrera]
 Todos los días
@@ -80,6 +74,7 @@ Todos los días
 [imagen: icono universidades]
 40
 [imagen: marcas destacadas]
+30
 [imagen: provincia]
 [imagen: pictograma cuotas]
 cuotas

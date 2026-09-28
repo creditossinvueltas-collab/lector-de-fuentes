@@ -1,8 +1,8 @@
 # fuente: MODO · Promociones
 # url: https://www.modo.com.ar/promos
-# leido: 2026-09-26
-# hash: eedc03c9
-# caracteres: 8059
+# leido: 2026-09-28
+# hash: c02ca6b8
+# caracteres: 7996
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -76,8 +76,6 @@ Hasta 100% de reintegro en Transporte
 [imagen: Hub card promo: Supermercados JK]
 20% de reintegro en EXTY online
 [imagen: Hub card promo: EXTY]
-25% de reintegro en Supermercado El Tunel
-[imagen: Hub card promo: Supermercado El Tunel]
 20% de reintegro en Topper online
 [imagen: Hub card promo: Topper]
 20% de reintegro en Milveintinuo
@@ -111,8 +109,6 @@ Hasta 100% de reintegro en Transporte
 [imagen: Hub card promo: Milveintinuo]
 30% de reintegro en Parrilla La Emilia
 [imagen: Hub card promo: Parrilla La Emilia]
-15% de reintegro en Farmacias del Puente
-[imagen: Hub card promo: Farmacias del Puente]
 30% de reintegro en AGAPE
 [imagen: Hub card promo: AGAPE]
 10% de reintegro en Cordial
@@ -129,8 +125,6 @@ Hasta 100% de reintegro en Transporte
 [imagen: Hub card promo: Supermercados de Mendoza]
 30% de reintegro en Patio de los Naranjos y San Horonato
 [imagen: Hub card promo: Patio de los Naranjos y San Horonato]
-15% de descuento en Diarco Pueblo
-[imagen: Hub card promo: Diarco Pueblo]
 20% de reintegro en Tressen
 [imagen: Hub card promo: Tressen]
 50% de reintegro en Transporte
@@ -138,8 +132,6 @@ Hasta 100% de reintegro en Transporte
 [imagen: Hub card promo: El Paso Oeste Uru]
 20% de reintegro en Patio De Los Naranjos y San Honorato
 [imagen: Hub card promo: Patio De Los Naranjos y San Honorato]
-10% de reintegro en Almundo online
-[imagen: Hub card promo: Almundo]
 10% de reintegro en Selma
 [imagen: Hub card promo: Selma]
 Hasta 6 cuotas sin interés en YPF
@@ -150,8 +142,6 @@ Hasta 6 cuotas sin interés en YPF
 15% de reintegro en YPF
 10% de reintegro en Carrefour Hiper, Market y Express
 [imagen: Hub card promo: Carrefour Hiper, Market y Express]
-10% de reintegro en Combustible
-[imagen: Hub card promo: Combustible]
 20% de reintegro en Supermercados Kilbel
 [imagen: Hub card promo: Supermercados Kilbel]
 15% de reintegro en Central Oeste
@@ -178,6 +168,8 @@ Hasta 6 cuotas sin interés en YPF
 [imagen: Hub card promo: YPF Combustible]
 30% de reintegro en AGAPE
 [imagen: Hub card promo: AGAPE]
+20% de reintegro en Farmacias Gassmann online
+[imagen: Hub card promo: Farmacias Gassmann]
 20% de reintegro en Nono Luigi
 [imagen: Hub card promo: Nono Luigi]
 20% de reintegro en Vaypol
@@ -194,8 +186,6 @@ Hasta 6 cuotas sin interés en YPF
 [imagen: Hub card promo: Supermercados Alvear]
 20% de reintegro en Supermercados Chalita
 [imagen: Hub card promo: Supermercados Chalita]
-10% de reintegro en Almundo & Universal online
-[imagen: Hub card promo: Almundo & Universal]
 30% de reintegro en El Paso Oeste Uru
 [imagen: Hub card promo: El Paso Oeste Uru]
 20% de reintegro en Winston Resto Bar
@@ -208,8 +198,6 @@ Hasta 6 cuotas sin interés en YPF
 [imagen: Hub card promo: Winston Resto Bar]
 20% de reintegro en Supermercados DIA
 [imagen: Hub card promo: Supermercados DIA]
-15% de descuento en Diarco Mayorista
-[imagen: Hub card promo: Diarco Mayorista]
 ¡Ganá premios! en Josimar
 [imagen: Hub card promo: Josimar]
 10% de reintegro en Almacor
@@ -222,6 +210,17 @@ Hasta 6 cuotas sin interés en YPF
 [imagen: Hub card promo: Resto La Urumpta]
 10% de reintegro en Shell
 [imagen: Hub card promo: Shell]
+10% de reintegro en Movistar Arena
+[imagen: Hub card promo: Movistar Arena]
+10% de reintegro en Maricre
+[imagen: Hub card promo: Maricre]
+20% de reintegro en Farmacias del interior
+[imagen: Hub card promo: Farmacias del interior]
+15% de reintegro en Central Oeste online
+[imagen: Hub card promo: Central Oeste]
+30% de reintegro en Eleton
+15% de reintegro en La Banderita
+[imagen: Hub card promo: La Banderita]
 Cargar más promos
 [imagen: facebook]
 [imagen: facebook]

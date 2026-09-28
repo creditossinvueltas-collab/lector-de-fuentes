@@ -1,12 +1,12 @@
-# Corrida del 2026-09-26
+# Corrida del 2026-09-28
 
 | Fuente | Estado | Caracteres | Segundos |
 |---|---|---|---|
-| Banco Nación · Descuentos | cambio | 1100 | 13.3 |
-| MODO · Promociones | cambio | 8059 | 23.0 |
-| Banco Provincia · Cuenta DNI | cambio | 1492 | 12.8 |
-| Banco Macro · Beneficios | cambio | 9436 | 13.0 |
-| Naranja X · Promociones | cambio | 4429 | 10.9 |
-| ChangoMás · Promociones bancarias | cambio | 25182 | 11.2 |
-| Carrefour · Descuentos bancarios | cambio | 52318 | 13.8 |
-| Coto · Descuentos | cambio | 5346 | 16.3 |
+| Banco Nación · Descuentos | sin_cambios | 1100 | 12.7 |
+| MODO · Promociones | cambio | 7996 | 22.9 |
+| Banco Provincia · Cuenta DNI | cambio | 1409 | 12.4 |
+| Banco Macro · Beneficios | sin_cambios | 9436 | 12.5 |
+| Naranja X · Promociones | cambio | 4425 | 10.8 |
+| ChangoMás · Promociones bancarias | cambio | 11505 | 11.1 |
+| Carrefour · Descuentos bancarios | cambio | 54365 | 13.9 |
+| Coto · Descuentos | cambio | 4821 | 15.8 |

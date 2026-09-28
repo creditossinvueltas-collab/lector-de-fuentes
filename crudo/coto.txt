@@ -1,8 +1,8 @@
 # fuente: Coto · Descuentos
 # url: https://www.coto.com.ar/descuentos
-# leido: 2026-09-26
-# hash: 06c447e2
-# caracteres: 5346
+# leido: 2026-09-28
+# hash: 3174c764
+# caracteres: 4821
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -24,21 +24,37 @@ Aire Libre
 Descuentos en COTO
 SELECCIONÁ EL DÍA PARA VER LAS PROMOS
 [imagen: Ver días anteriores]
-Sabado 26
-Domingo 27
 Lunes 28
 Martes 29
 Miercoles 30
 Jueves 1
 Viernes 2
+Sabado 3
+Domingo 4
 [imagen: Ver días siguientes]
 Online
 Sucursales
+[imagen: 30% DE DESCUENTO]
+30% DE DESCUENTO
+En un pago con tarjetas de crédito Cabal y Débito Cabal
+Válido únicamente los lunes 07/09, 14/09 y 28/09 Aplican exclusiones. Tope de Reintegro $15000 semanal por usuario.Ver legales.
+Online
+[imagen: 30% DE DESCUENTO]
+30% DE DESCUENTO
+PLAN SUELDO En un pago con tarjetas de crédito Visa, Mastercard y Visa débito.
+Aplican exclusiones. Ver legales - Tope de Reintegro de $20.000
+[imagen: 25% DE DESCUENTO]
+25% DE DESCUENTO
+En un pago con tarjetas de crédito Visa, Mastercard y Cabal
+Tope $30.000. En compras en un pago. Aplica en los productos sin oferta, aplican excluidos, ver legales.
+[imagen: 20% DE DESCUENTO]
+20% DE DESCUENTO
+En un pago con tarjetas de crédito Visa, Mastercard y Visa débito.
+Aplican exclusiones. Ver legales - Tope de Reintegro de $15.000
 [imagen: 3 CUOTAS SIN INTERÉS]
 3 CUOTAS SIN INTERÉS
 Con tarjeta Naranja X
 Aplican exclusiones. Ver legal.
-Online
 [imagen: 12 CUOTAS SIN INTERÉS]
 12 CUOTAS SIN INTERÉS
 3-6-9-12 cuotas sin interés con tarjetas de crédito visa, MasterCard y American express.
@@ -47,10 +63,6 @@ Prod. Seleccionados Ferretería, automotor, juguetería, deportes, camping, roda
 6 CUOTAS SIN INTERÉS
 3-6 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Productos de Electro. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
-[imagen: 18 CUOTAS SIN INTERÉS]
-18 CUOTAS SIN INTERÉS
-12-18 cuotas sin interés con tarjetas de crédito American Express de American express.
-Prod. Seleccionados Electro, Ferretería, automotor, Bazar, deportes, muebles, jardinería, camping, rodados. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales
 [imagen: 12 CUOTAS SIN INTERÉS]
 12 CUOTAS SIN INTERÉS
 3-6-9-12 cuotas sin interés con tarjetas de crédito Visa, Mastercard y American express.
@@ -59,14 +71,6 @@ Prod. Seleccionados de ferretería, automotor, juguetería, deportes, camping, r
 6 CUOTAS SIN INTERÉS
 3-6 cuotas sin interés con tarjetas de crédito Visa, Mastercard y American express.
 Productos de Electro. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales
-3-6-9-12 cuotas sin interés con tarjetas de crédito visa y MasterCard para segmento único.
-Prod. Seleccionados Electro, ferretería, automotor, Juguetería, deportes, camping, rodados, librería, bazar, libros, muebles, jardinería, Acc. de iluminación, decoración, blanquería, colchones. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
-3-6 cuotas sin interés con tarjetas de crédito visa y MasterCard.
-Prod. Seleccionados Electro, ferretería, automotor, Juguetería, deportes, camping, rodados, librería, bazar, libros, muebles, jardinería, Acc. de iluminación, decoración, blanquería, colchones. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
-[imagen: 18 CUOTAS SIN INTERÉS]
-18 CUOTAS SIN INTERÉS
-3-6-9-12-15-18 cuotas sin interés con tarjetas de crédito visa y MasterCard.
-Prod. seleccionados de Electro, ferretería, automotor, librería, camping, deportes, juguetería, rodados, Bazar, muebles, jardinería, decoración, blanquería, colchones. Vigencia del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
 [imagen: 20 CUOTAS SIN INTERÉS]
 20 CUOTAS SIN INTERÉS
 15-18-20 cuotas sin interés con tarjetas de crédito visa y Mastercard.
@@ -75,11 +79,14 @@ Prod. Seleccionados de Electro, Automotor, ferretería, deportes, muebles, jardi
 Aplica en electrodomésticos. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
 3-6-9-12 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Prod. Seleccionados Ferretería, automotor, bazar, decoración, blanquería, colchones. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
+3-6 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Aplica en electrodomésticos. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
-3-6-9-12-18 cuotas sin interés con tarjetas de crédito Visa y Mastercard.
-Prod. Seleccionados de Electro Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
+[imagen: 18 CUOTAS SIN INTERÉS]
+18 CUOTAS SIN INTERÉS
 3-6-9-12-18 cuotas sin interés con tarjetas de crédito Cabal.
 Prod. Seleccionados de Electro. Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
+[imagen: 18 CUOTAS SIN INTERÉS]
+18 CUOTAS SIN INTERÉS
 18 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Prod. Seleccionados de Electro Del 01/09 al 30/09/2026 Aplican exclusiones. Ver legales.
 Ver menos
