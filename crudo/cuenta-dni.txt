@@ -1,8 +1,8 @@
 # fuente: Banco Provincia · Cuenta DNI
 # url: https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/
-# leido: 2026-09-28
-# hash: 214d043e
-# caracteres: 1409
+# leido: 2026-10-01
+# hash: 783fc861
+# caracteres: 1442
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -16,7 +16,6 @@ Beneficios
 FILTRAR POR RUBRO:
 Todos
 Alimentos
-Garrafas
 Promo Acumulable
 Supermercados
 Varios
@@ -42,40 +41,44 @@ Lunes a viernes
 [imagen: icono comercios de barrio]
 20
 Martes
-[imagen: toledo cdni]
+[imagen: Nini 200X130]
+15
 Martes y miércoles
 [imagen: supermercado verde]
-15
-Miércoles
-[imagen: iconoc carrefour front]
-10
 Miércoles
 [imagen: la anonima 200 122]
-[imagen: logo josimar 130]
+10
+Miércoles
+[imagen: iconoc carrefour front]
 [imagen: logo sodimac 200x130]
+[imagen: logo josimar 130]
 Miércoles y jueves
 [imagen: perfumeria pictograma]
+Jueves
+[imagen: logo changomas]
+Jueves
+[imagen: logo coto]
+30
 Jueves y viernes
 [imagen: logo mostaza 200x130]
 30
-Jueves
-[imagen: logo changomas]
 Viernes y sábado
 [imagen: logo supercoop]
+Sábado
+[imagen: petvetlogo]
 Sábado y domingo
 [imagen: LOGO YPF FULL]
 25
-Viernes y sábado
-[imagen: logo coop obrera]
-Todos los días
-[imagen: icono garrafas]
-40
+Sábado y domingo
+[imagen: gastronomia invierno2025]
+25
 Todos los días
 [imagen: icono universidades]
 40
+Todos los días
 [imagen: marcas destacadas]
-30
 [imagen: provincia]
+40
 [imagen: pictograma cuotas]
 cuotas
 sin interés
