@@ -105,11 +105,22 @@ async function pasarDePagina(pagina) {
       const dicePagina = /(siguiente\s+p[áa]gina|p[áa]gina\s+siguiente|next\s+page|ir\s+a\s+la\s+siguiente)/i;
       const candidatos = [...document.querySelectorAll('a, button, [role="button"], [role="link"]')];
 
+      // La etiqueta puede estar en el botón o en el ícono que tiene adentro.
+      // Banco Santa Fe pone "Ir a la siguiente página" en la imagen, no en el
+      // botón: mirando solo el botón, la flecha quedaba invisible y nos
+      // perdíamos 43 de sus 44 páginas.
+      const etiquetaDe = (el) => {
+        const propia = (el.getAttribute('aria-label') || el.getAttribute('title') || '').trim();
+        const adentro = [...el.querySelectorAll('[aria-label], [title], img[alt]')]
+          .map((h) => h.getAttribute('aria-label') || h.getAttribute('title') || h.getAttribute('alt') || '')
+          .join(' ');
+        return (propia + ' ' + adentro + ' ' + (el.innerText || '')).replace(/\s+/g, ' ').trim();
+      };
+
       const boton = candidatos.find((el) => {
         if (!esVisible(el) || apagado(el)) return false;
         if (el.getAttribute('rel') === 'next') return true;
-        const etiqueta = (el.getAttribute('aria-label') || el.getAttribute('title') || el.innerText || '').trim();
-        return dicePagina.test(etiqueta);
+        return dicePagina.test(etiquetaDe(el));
       });
 
       if (!boton) return false;
@@ -184,6 +195,11 @@ async function leerUna(navegador, fuente) {
       const avanzo = await pasarDePagina(pagina);
       if (!avanzo) break;
       await pagina.waitForTimeout(2500);
+
+      // Si todavia no se actualizo, le damos una segunda chance antes de cortar:
+      // varias de estas webs tardan en traer la pagina siguiente.
+      const recien = await textoVisible(pagina, fuente.seccion || 'body');
+      if (recien === anterior) await pagina.waitForTimeout(3500);
     }
 
     const texto = limpiar(partes.join('\n'));
