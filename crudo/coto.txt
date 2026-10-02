@@ -1,8 +1,9 @@
 # fuente: Coto · Descuentos
 # url: https://www.coto.com.ar/descuentos
 # leido: 2026-10-02
-# hash: 309b56b4
-# caracteres: 4311
+# hash: e9eba58e
+# paginas: 1
+# caracteres: 4398
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -63,12 +64,16 @@ Prod. Seleccionados Ferretería, automotor, bazar, decoración, blanquería, col
 6 CUOTAS SIN INTERÉS
 3-6 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Aplica en electrodomésticos. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
+12 CUOTAS SIN INTERÉS
 3-6-9-12 cuotas sin interés con tarjetas de crédito Visa, Mastercard y American express.
 Prod. Seleccionados de ferretería, automotor, juguetería, deportes, camping, rodados, librería, Bazar, libros, muebles, jardinería, Acc. De iluminación, blanquería, colchones. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
+6 CUOTAS SIN INTERÉS
 3-6 cuotas sin interés con tarjetas de crédito Visa, Mastercard y American express.
 Productos de Electro. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
+18 CUOTAS SIN INTERÉS
 3-6-9-12-18 cuotas sin interés con tarjetas de crédito Cabal.
 Prod. Seleccionados de Electro. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
+18 CUOTAS SIN INTERÉS
 18 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Prod. Seleccionados de Electro Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
 [imagen: 3 CUOTAS SIN INTERÉS]

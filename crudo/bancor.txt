@@ -1,8 +1,9 @@
 # fuente: Bancor - Promociones
 # url: https://www.bancor.com.ar/promociones
 # leido: 2026-10-02
-# hash: 222d17b8
-# caracteres: 3164
+# hash: 0283a395
+# paginas: 1
+# caracteres: 3200
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -119,8 +120,11 @@ Sin interés
 [imagen: CINEMACENTER]
 2X1 en entradas
 [imagen: SATURNO HOGAR]
+Sin interés
 [imagen: ON CITY]
+Sin interés
 [imagen: FRAVEGA]
+Sin interés
 CÓRDOBA MUNICIPIOS Y COMUNAS
 Hasta 4 sin interés
 [imagen: UNIVERSIDAD SIGLO XXI]

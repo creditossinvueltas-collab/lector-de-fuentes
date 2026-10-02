@@ -2,6 +2,7 @@
 # url: https://www.bna.com.ar/Personas/DescuentosYPromociones
 # leido: 2026-10-02
 # hash: 9d6c1bda
+# paginas: 1
 # caracteres: 1100
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.

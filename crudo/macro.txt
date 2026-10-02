@@ -2,6 +2,7 @@
 # url: https://www.macro.com.ar/beneficios
 # leido: 2026-10-02
 # hash: 17976427
+# paginas: 1
 # caracteres: 9401
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.

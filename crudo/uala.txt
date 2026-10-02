@@ -1,8 +1,9 @@
 # fuente: Uala - Promociones
 # url: https://www.uala.com.ar/promociones
 # leido: 2026-10-02
-# hash: 16344176
-# caracteres: 3233
+# hash: 50fb8ebc
+# paginas: 1
+# caracteres: 3250
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -54,6 +55,7 @@ y 6 meses con un 50% de descuento
 20% de descuento
 en los planes Total y Plus mensual
 [imagen: Logo Coderhouse]
+20% de descuento
 Adicional en Coderhouse
 Personas
 Cuenta

@@ -1,8 +1,9 @@
 # fuente: Prex - Promociones
 # url: https://www.prexcard.com.ar/promociones
 # leido: 2026-10-02
-# hash: de7c79b2
-# caracteres: 3044
+# hash: 7a27abcd
+# paginas: 1
+# caracteres: 3164
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -35,29 +36,37 @@ Todos los días
 2 y 3 de octubre
 [imagen: 40% OFF en Asistencia al Viajero]
 40% OFF en Asistencia al Viajero
+Todos los días
 [imagen: 30% de reintegro en DIA Online]
 30% de reintegro en DIA Online
 Lunes 5 de octubre
 [imagen: 50% OFF en tu viaje con Cabify]
 50% OFF en tu viaje con Cabify
+Todos los días
 [imagen: eSIM de cortesía para tu viaje]
 eSIM de cortesía para tu viaje
 Viajá conectado
 [imagen: Hasta 10% de descuento en Sony Store]
 Hasta 10% de descuento en Sony Store
+Todos los días
 [imagen: 20% off en Coderhouse pagando con tu Prex]
 20% off en Coderhouse pagando con tu Prex
+Todos los días
 [imagen: 20% OFF en Centro de e Learning UTN BA con Prex]
 20% OFF en Centro de e-Learning UTN BA con Prex
+Todos los días
 [imagen: Retiros a través de PayPal sin comisión]
 Retiros a través de PayPal sin comisión
+Todos los días
 [imagen: Transferí al exterior, ¡sin comisión!]
 Transferí al exterior, ¡sin comisión!
 Desde la App
 [imagen: 15% de descuento en Vstore]
 15% de descuento en Vstore
+Todos los días
 [imagen: 20% de descuento en Smartlife]
 20% de descuento en Smartlife
+Todos los días
 [imagen: 15% off en ChangoMás pagando con QR]
 15% off en ChangoMás pagando con QR
 Viernes, sábados y domingos

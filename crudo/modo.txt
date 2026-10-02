@@ -2,6 +2,7 @@
 # url: https://www.modo.com.ar/promos
 # leido: 2026-10-02
 # hash: f77566aa
+# paginas: 1
 # caracteres: 8014
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.

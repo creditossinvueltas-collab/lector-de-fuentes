@@ -1,8 +1,9 @@
 # fuente: Banco Santa Fe - Beneficios
 # url: https://www.bancosantafe.com.ar/personas/beneficios
 # leido: 2026-10-02
-# hash: 3d080e7a
-# caracteres: 5824
+# hash: 367b2b90
+# paginas: 1
+# caracteres: 5920
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -112,9 +113,11 @@ Todos los días.
 Desde el 28/05/2026 hasta el 31/12/2026.
 Recital Harlem Festival
 6 cuotas sin interés en Recital Harlem Festival
+Todos los días.
 Desde el 01/06/2026 hasta el 11/10/2026.
 [imagen: Babasonicos]
 6 cuotas sin interés en Babasonicos
+Todos los días.
 Desde el 15/07/2026 hasta el 11/12/2026.
 [imagen: Mercado Libre logo]
 EXCLUSIVO CUENTA PAQUETE
@@ -128,16 +131,20 @@ Todos los Sábado y Domingo.
 Desde el 01/04/2026 hasta el 01/11/2026.
 [imagen: ONCITY logo vertical rgb png]
 12 cuotas sin interés en ON CITY
+Todos los días.
 Desde el 07/01/2025 hasta el 31/12/2026.
 [imagen: ONCITY logo vertical rgb png]
 EXCLUSIVO STARLINK
 6 cuotas sin interés en On City
+Todos los días.
 Desde el 06/03/2026 hasta el 31/12/2026.
 [imagen: aa benefits]
 6 cuotas sin interés en Aerolineas Argentinas
+Todos los días.
 Desde el 31/12/2025 hasta el 31/12/2026.
 [imagen: aa benefits]
 3 cuotas sin interés en Aerolineas Argentinas
+Todos los días.
 Desde el 31/12/2025 hasta el 31/12/2026.
 Resultados 1 - 12 de 521
 [imagen: Ir a la página anterior]

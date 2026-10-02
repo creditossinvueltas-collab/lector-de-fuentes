@@ -1,8 +1,9 @@
 # fuente: Brubank - Beneficios
 # url: https://www.brubank.com/beneficios
 # leido: 2026-10-02
-# hash: 30e64b32
-# caracteres: 5330
+# hash: f1a8013c
+# paginas: 1
+# caracteres: 7728
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -23,30 +24,43 @@ Ir a promo ›
 2 a 12 cuotas
 ‍sin interés
 Despegar
+Todos los días
 2 a 6 cuotas
 ‍sin interés
 Dexter
+Todos los días
 2 a 6 cuotas sin interés
 Moov
+Todos los días
 2 a 6 cuotas sin interés
 Stock Center
+Todos los días
 Hasta 12 cuotas sin interés
 Samsung
+Todos los días
 Hasta 12 cuotas sin interés
 JBL
+Todos los días
 Hasta 12 cuotas
 JetSmart
+Todos los días
 3 a 9 cuotas sin interés
 Ver
+Todos los días
 3 y 6 cuotas sin interés
 Farmacity
+Todos los días
 3 y 6 cuotas sin interés
 Simplicity
+Todos los días
 Get the look
+Todos los días
 3 a 12 cuotas sin interés
 On City
+Todos los días
 3 a 12 cuotas sin interés
 Arredo
+Todos los días
 Hasta 6 cuotas sin interés en Decathlon
 Con tu Plan Ultra, todos los días, de forma presencial comprando con tu tarjeta de
 crédito Brubank
@@ -61,24 +75,45 @@ Tope de reintegro: $6.000
 ‍Todos los días
 40% de reintegro
 Cabify
+Tope de reintegro: $6.000
 40% de reintegro
 Rapanui
+Tope de reintegro: $6.000
 50% de reintegro
 Cerini
 Tope de reintegro: $50.000
+40% de reintegro
 Le Pain Quotidien
+Tope de reintegro: $6.000
+30% de reintegro
 Simplicity
+Tope de reintegro: $6.000
+40% de reintegro
 Freddo
+Tope de reintegro: $6.000
+30% de reintegro
 The Food Market
+Tope de reintegro: $6.000
 10% de reintegro
 App YPF
+Tope de reintegro: $6.000
 ‍Todos los lunes
+30% de reintegro
 Farmacity
+Tope de reintegro: $6.000
+40% de reintegro
 Taxi Premium
+Tope de reintegro: $6.000
+40% de reintegro
 Chungo
+Tope de reintegro: $6.000
+40% de reintegro
 Lucciano’s
+Tope de reintegro: $6.000
+30% de reintegro
 La cabrera
 Tope de reintegro: $30.000
+30% de reintegro
 Rock & Feller’s
 Tope de reintegro: $30.000
 30% descuento
@@ -87,7 +122,10 @@ Sin tope
 ‍Todos los jueves
 30% descuento
 Cucina D'Onore
+Tope de reintegro: $30.000
+30% descuento
 Tucson
+Tope de reintegro: $30.000
 ¿Qué estás esperando para tener Plan Ultra?
 Suscribir a plan
 Mejorá tu día a día
@@ -98,27 +136,58 @@ Ir a Promo
 20% de reintegro
 Axion Energy
 Viernes, sábados y domingos
+30% de reintegro
 Burger King
 Viernes, sábados y domingos
+30% de reintegro
 Cabify
 Viernes, sábados y domingos.
+30% de reintegro
 Freddo
+Viernes, sábados y domingos
 50% de reintegro
 Cerini
+Todos los días
+30% de reintegro
+Viernes, sábados y domingos
+30% de reintegro
 Get The Look
+Viernes, sábados y domingos
+30% de reintegro
 Le Pain Quotidien
+Viernes, sábados y domingos
+30% de reintegro
+Viernes, sábados y domingos
+30% de reintegro
 The Food Market
+Viernes, sábados y domingos
 10% de reintegro
 App YPF
 Lunes
+30% de reintegro
 Lucciano’s
+Todos los días
+30% de reintegro
 Rapanui
+Viernes, sábados y domingos
+50% de reintegro
 Kusta Barber
+Todos los días
+30% de reintegro
 Deniro
+Viernes, sábados y domingos
+30% de reintegro
 Molina
+Viernes, sábados y domingos
+30% de reintegro
 Chungo
+Viernes, sábados y domingos
+40% de reintegro
 Taxi Premium
+Todos los días
+30% de reintegro
 Cervelar
+Viernes, sábados y domingos
 ¿Qué estás esperando para tener Plan Plus?
 Suscribir a plan
 Personas
@@ -132,79 +201,147 @@ Aprovechá de los descuentos
 en las mejores marcas
 Hasta 6 cuotas sin interés
 Devré
+Todos los días
 Hasta 6 cuotas sin interés
 Macowens
+Todos los días
 2 a 12 cuotas sin interés
 LG
+Todos los días
 2 a 12 cuotas sin interés
 Hisense
+Todos los días
 Tienda Newsan
+Todos los días
 Motorola
+Todos los días
 2 a 9 cuotas sin interés
 Whirlpool
+Todos los días
 2 a 9 cuotas sin interés
 HP
+Todos los días
 Las Margaritas
+Todos los días
 Pigmento
+Todos los días
 Hasta 9 cuotas sin interés
 Atrapalo
+Todos los días
 6 cuotas sin interés
 Thermomix
+Todos los días
+Todos los días
+Todos los días
 [imagen: logo Get The Look]
+Todos los días
 On City
+Todos los días
 Arredo
+Todos los días
+10% de reintegro
 Martes
 20% de reintegro
 Lunes y viernes
+20% de reintegro
 Viernes
+30% de reintegro
+Todos los días
 [imagen: logo Get The Look]
+20% de reintegro
 Get The Look
 Viernes
+20% de reintegro
 Miércoles
+20% de reintegro
 Miércoles
+20% de reintegro
+Viernes
 15% de descuento
 Mala Peluquería
 Domingo y lunes
+20% de reintegro
+Viernes
+20% de reintegro
 LPQ
+Miércoles
+20% de reintegro
+Miércoles
 10% de descuento
 Selma
+Viernes
 20% de descuento
 ACF
+Todos los días
+30% de reintegro
 Eyelit
 Jueves a domingos
+10% de reintegro
 Lunes
 20% de descuento
 Nic
+Todos los días
 25% de descuento
 Alto Parque
 Lunes a viernes
 15% de descuento
 Multipoint
+Todos los días
 [imagen: logo Cervelar]
+20% de reintegro
 Cervelar
+Miércoles
+15% de descuento
 Baires IT
+Todos los días
+20% de descuento
 CUI
+Todos los días
 45% de descuento
 Educación IT
+Todos los días
+20% de reintegro
 Deniro
+Miércoles
 25% de descuento
 Enter The Exit
+Todos los días
 10% de descuento
 Los Silos Hotel
+Todos los días
+25% de descuento
 Open Park
+Todos los días
+10% de descuento
 Melincue Resort
+Todos los días
+20% de reintegro
 Molina
+Miércoles
+15% de descuento
 Playmobil
+Todos los días
+30% de reintegro
+Todos los días
+20% de reintegro
 Matter
+Todos los días
+20% de descuento
 Mundo Bienestar
+Todos los días
 50% de descuento
 Club Newman
+Todos los días
 [imagen: Signo marcario Biomac]
+10% de descuento
 Biomac
+Todos los días
+10% de descuento
 Celeste
 Lunes a viernes
 5% de descuento
 Celeste Digital
+Lunes a viernes
 Elegí el plan que va con vos
 Plan One
 Gratis
@@ -223,6 +360,7 @@ Para quienes buscan lo mejor. Tu cuenta bancaria al siguiente nivel. Conocé tod
 [imagen: ícono Linkedin]
 [imagen: Sello certificación Empresa B]
 Botón de arrepentimiento
+Botón de baja
 Sobre Brubank
 Beneficios
 Tienda Brubank

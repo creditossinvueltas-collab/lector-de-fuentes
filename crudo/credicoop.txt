@@ -1,8 +1,9 @@
 # fuente: Credicoop - Beneficios
 # url: https://www.beneficios.bancocredicoop.coop/
 # leido: 2026-10-02
-# hash: 15148049
-# caracteres: 3375
+# hash: 4857e297
+# paginas: 1
+# caracteres: 4270
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -59,6 +60,17 @@ Domingo
 Lunes
 Martes
 Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
+Lunes
+Martes
+Miércoles
+Jueves
+Viernes
+Sábado
+Domingo
 Promos Destacadas
 Combustibles
 Hasta 20% de ahorro
@@ -82,68 +94,124 @@ Sin tope de reintegro
 Productos seleccionados
 30% de ahorro
 Presencial y Tienda virtual
+20% de ahorro
 Presencial y Tienda Virtual
+30% de ahorro
+30% de ahorro
 Hasta 30% de ahorro
 25% de ahorro
+20% de ahorro
 Hasta 30% de ahorro
+20% de ahorro
+20% de ahorro
 Presencial con NFC
+30% de ahorro
 15% de ahorro
+20% de ahorro
+20% de ahorro
 Presencial y Tienda virtual
 Súpers adheridos
 de Mendoza
+20% de ahorro
 Súpers adheridos
 de Córdoba
+20% de ahorro
 de Santa Fe
+20% de ahorro
 de Jujuy
+20% de ahorro
 Federal
+20% de ahorro
+20% de ahorro
+20% de ahorro
+20% de ahorro
+30% de ahorro
+20% de ahorro
 Diarco Barrio
+15% de ahorro
 Diarco Pueblo
+15% de ahorro
 Diarco Mayorista
+20% de ahorro
 Gastronomía
+30% de ahorro
+30% de ahorro
+20% de ahorro
 Tienda virtual
+30% de ahorro
+30% de ahorro
 Pinturería
+20% de ahorro
 Tienda virtual
 Del 6 al 13 de octubre
 Indumentaria
+Hasta 30% de ahorro
 3 cuotas sin interés
 Indumentaria deportiva
+20% de ahorro
 Indumentaria deportiva
+30% de ahorro
 Indumentaria
+20% de ahorro
 Del 1 al 4 de octubre
+20% de ahorro
 25% de ahorro
 Bazar
 12 cuotas sin interés
 Tienda Virtual
 Librerías
+20% de ahorro
 Hogar y Deco
+20% de ahorro
 10% de ahorro adicional
 con MODO
 Hogar
 Hasta 18 cuotas
 sin interés
 Electro
+20% de ahorro
 10% de ahorro adicional
 con MODO
 Electro
+25% de ahorro
 Compras en línea
 Hasta 18 cuotas
 sin interés
 Tienda de mascotas
+20% de ahorro
 Accesorios para vehículos
+15% de ahorro
 Accesorios para vehículos
+20% de ahorro
 Relojes
+20% de ahorro
+10% de ahorro adicional
 Perfumería
+Hasta 30% de ahorro
 Perfumería
+15% de ahorro
+10% de ahorro adicional
 Farmacias
+15% de ahorro
 Farmacias
+20% de ahorro
+15% de ahorro
+25% de ahorro
+20% de ahorro
 Farmacias del Interior
+20% de ahorro
+15% de ahorro
 Tienda Presencial
+15% de ahorro
 Tienda Virtual
+15% de ahorro
 Turismo
 3 y 6 cuotas
+sin interés
 Pasajes
 Turismo Cabal
 Hasta 12 cuotas
+sin interés
 Destinos nacionales
 Teatro
 50% de ahorro

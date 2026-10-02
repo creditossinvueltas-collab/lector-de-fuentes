@@ -1,8 +1,9 @@
 # fuente: Banco Provincia · Cuenta DNI
 # url: https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/
 # leido: 2026-10-02
-# hash: cdc45774
-# caracteres: 1415
+# hash: a575b432
+# paginas: 1
+# caracteres: 1465
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -50,7 +51,9 @@ Miércoles
 10
 Miércoles
 [imagen: iconoc carrefour front]
+Miércoles
 [imagen: logo sodimac 200x130]
+Miércoles
 [imagen: logo josimar 130]
 Miércoles y jueves
 [imagen: perfumeria pictograma]
@@ -75,8 +78,10 @@ Todos los días
 40
 Todos los días
 [imagen: marcas destacadas]
+Todos los días
 [imagen: provincia]
 40
+Todos los días
 [imagen: pictograma cuotas]
 cuotas
 sin interés

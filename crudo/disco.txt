@@ -1,8 +1,9 @@
 # fuente: Disco - Descuentos del dia
 # url: https://www.disco.com.ar/descuentos-del-dia
 # leido: 2026-10-02
-# hash: aa0254c3
-# caracteres: 8970
+# hash: 3a94957e
+# paginas: 1
+# caracteres: 8991
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -77,6 +78,7 @@ PROMOCIONES VÁLIDAS TODOS LOS DÍAS DEL 02/10/2026 AL 04/10/2026 EN LA REPÚBLI
 20 %
 en compras iguales o superiores a $100.000
 Hacé tus compras los días Viernes y Sábados, del 01/06/2026 al 31/10/2026 y podes programar o el envío o retirar tu pedido el día que quieras. Válido para pagos efectuados mediante la billetera MODO con tarjetas de débito adheridas o con tarjetas de crédito adheridas en 1 (una) cuota. El beneficio es acumulable con otras promociones vigentes que apliquen pagando con MODO. El tope de reintegro es único y compartido con canal de venta, por lo que las compras efectuadas por cualquier modalidad acumularán para el mismo límite máximo de beneficio mensual.
+3 cuotas sin interés
 en Toda la Compra Online
 PROMOCIONES VÁLIDAS PARA COMPRAS REALIZADAS DESDE EL 01/10/2026 AL 31/10/2026 EN LA REPÚBLICA ARGENTINA CON TARJETA DE CRÉDITO FÍSICA CENCOPAY. NO ACUMULABLES CON OTRAS PROMOCIONES Y/O DESCUENTOS.
 12 Cuotas sin interés

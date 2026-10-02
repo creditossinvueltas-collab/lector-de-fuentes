@@ -1,8 +1,9 @@
 # fuente: Banco Galicia - Beneficios
 # url: https://beneficios.galicia.ar/
 # leido: 2026-10-02
-# hash: 867da4fa
-# caracteres: 3065
+# hash: 929dc15e
+# paginas: 1
+# caracteres: 3902
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -35,6 +36,7 @@ Todos los sábados tenés hasta 25% de ahorro con tu Tarjeta de crédito Galicia
 Conocer promo
 [imagen: Conocer promo]
 [imagen: ¡Pedite un Rappi!]
+Todos los sábados tenés hasta 25% de ahorro con tu Tarjeta de crédito Galicia Visa.
 Buscá promociones
 [imagen: swipeArrowPrev]
 Supermercados
@@ -77,8 +79,14 @@ Sábado y Domingo
 EXCLUSIVO ÉMINENT
 [imagen: click en esta card para conocer más]
 [imagen: Dionysos]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 [imagen: Team Sport]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 [imagen: Outlet]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 Mostrar todas
 Beneficios Gourmet
 [imagen: Solomia Parrilla]
@@ -91,19 +99,28 @@ EXCLUSIVO ÉMINENT BLACK
 Todos los días
 EXCLUSIVO ÉMINENT BLACK
 [imagen: Mele Fuegos]
+25% de ahorro
+Todos los días
 [imagen: Maro]
+25% de ahorro
+Todos los días
 [imagen: Mesa Tres]
+25% de ahorro
+Todos los días
 Mostrar todas
 Destacadas
 [imagen: Zara]
 Hasta 3 cuotas sin interés
+Todos los días
 [imagen: Bigbox]
 Hogar
 10% de ahorro y hasta 6 cuotas sin interés
 [imagen: Tarjeta American Express]
+Sábado y Domingo
 [imagen: Essen]
 10% de ahorro y hasta 6 cuotas sin interés
 [imagen: Tarjeta American Express]
+Sábado y Domingo
 [imagen: Combustible]
 Combustible
 15% de ahorro
@@ -118,18 +135,35 @@ Próximos eventos
 [imagen: THE LEMON TWIGS en C Art Media]
 Entretenimiento
 Hasta 6 cuotas sin interés
+Todos los días
 [imagen: PARALAMAS NONPALIDECE Movistar Arena]
 Hasta 6 cuotas sin interés
+Todos los días
 [imagen: Mate]
 Hasta 12 cuotas sin interés
+Todos los días
 [imagen: Mate]
+Hasta 6 cuotas sin interés
+Todos los días
 [imagen: Órbita Casa Futuro]
+Hasta 6 cuotas sin interés
+Todos los días
 Comprá desde casa 📦
 [imagen: Digital Sport]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 [imagen: Authogar Deportes]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 [imagen: Alpine Skate]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 [imagen: Open Sports]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 [imagen: Run and Bike]
+25% de ahorro y hasta 12 cuotas sin interés
+Sábado y Domingo
 Tienda Galicia
 Encontrá toda la variedad de productos en nuestra Tienda Galicia.
 Ir a Tienda Galicia

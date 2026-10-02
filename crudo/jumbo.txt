@@ -1,8 +1,9 @@
 # fuente: Jumbo - Descuentos del dia
 # url: https://www.jumbo.com.ar/descuentos-del-dia
 # leido: 2026-10-02
-# hash: cc6b32e6
-# caracteres: 8402
+# hash: 517d7082
+# paginas: 1
+# caracteres: 8423
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -81,6 +82,7 @@ PROMOCIONES VÁLIDAS TODOS LOS DÍAS DEL 02/10/2026 AL 04/10/2026 EN LA REPÚBLI
 3 cuotas sin interés
 en Productos seleccionados
 PROMOCIÓN VÁLIDA TODOS LOS DÍAS DESDE EL 01/01/2026 AL 31/10/2026, EN LOS LOCALES Y SITIO WEB OBTENIENDO 3 CUOTAS SIN INTERÉS EN PRODUCTOS SELECCIONADOS ABONANDO CON TARJETAS DE CREDITO VISA Y MASTERCARD BANCARIAS.
+3 cuotas sin interés
 en Toda la Compra Online
 PROMOCIONES VÁLIDAS PARA COMPRAS REALIZADAS DESDE EL 01/10/2026 AL 31/10/2026 EN LA REPÚBLICA ARGENTINA CON TARJETA DE CRÉDITO FÍSICA CENCOPAY. NO ACUMULABLES CON OTRAS PROMOCIONES Y/O DESCUENTOS.
 12 Cuotas sin interés
