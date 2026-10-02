@@ -1,8 +1,8 @@
 # fuente: Naranja X · Promociones
 # url: https://www.naranjax.com/promociones
-# leido: 2026-10-01
-# hash: 36ee566e
-# caracteres: 3984
+# leido: 2026-10-02
+# hash: 302ffb0d
+# caracteres: 4379
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -48,7 +48,7 @@ En supermercados
 [imagen: nx icon]
 Crédito
 [imagen: 3 cuotas cero interés]
-[imagen: 1 / 2]
+[imagen: 1 / 4]
 Todos los días
 Hasta 12 cuotas cero interés
 En seleccionados
@@ -56,10 +56,24 @@ Electro y tecnología
 [imagen: nx icon]
 Crédito
 [imagen: Hasta 12 cuotas cero interés]
-[imagen: 2 / 2]
+[imagen: 2 / 4]
+12 cuotas cero interés
+En vuelos, paquetes y más
+Viajes Naranja X
+[imagen: 12 cuotas cero interés]
+[imagen: 3 / 4]
+Enterate de las promos antes que nadie
+Sumate a nuestro canal de WhatsApp
+y recibí beneficios exclusivos
+Débito
+Dinero en cuenta
+[imagen: Sumate a nuestro canal de WhatsApp]
+[imagen: 4 / 4]
 [imagen: Previous slide]
 [imagen: Go to slide 1]
 [imagen: Go to slide 2]
+[imagen: Go to slide 3]
+[imagen: Go to slide 4]
 [imagen: Next slide]
 Para tarjetear la compra del super
 Conocer más
@@ -67,24 +81,25 @@ Conocer más
 [imagen: Card Brand Image]
 Hasta 18 cuotas cero interés
 Todos los días en Ibaceta
+[imagen: Card Brand Image]
+10% off y 6 cuotas cero interés
+Todos los días en Cata
 Cuotas en tecno y electro
 Conocer más
 [imagen: Conocer más sobre Cuotas en tecno y electro]
 Especial
-[imagen: Card Brand Image]
 Hasta 14 cuotas cero interés
 Todos los días en Casa del Audio
 Hasta 12 cuotas cero interés
-Todos los días en Naldo
-Todos los días en On City
 Todos los días en Fravega
-Todos los días en Cetrogar
 Todos los días en Megatone
+Todos los días en On City
+Todos los días en Cetrogar
+Todos los días en Naldo
+Todos los días en Whirlpool
 Día de la madre
 Hasta 9 cuotas cero interés
 Todos los días en Riiing
-Especial
-Todos los días en Genesio Hogar
 Cuotas y descuentos en viajes
 [imagen: Conocer más sobre Cuotas y descuentos en viajes]
 [imagen: Plan Turbo]
@@ -93,43 +108,43 @@ Hasta 25% off y 24 cuotas fijas
 Todos los días en Viajes Naranjax
 Débito
 Hasta 10% off y 6 cuotas cero interés
-Todos los días en El Norte
-10% off y 6 cuotas cero interés
-Todos los días en El Practico
+Todos los días en Chevallier
 Hasta 10% off y 6 cuotas cero interés
-Todos los días en General Urquiza Transportes
+Todos los días en El Norte
+Todos los días en Andesmar
 Todos los días en Plusmar
 Todos los días en Flecha Bus
-Todos los días en Andesmar
-Todos los días en Chevallier
+Todos los días en La Veloz del Norte
+Todos los días en General Urquiza Transportes
 Cuotas y descuentos en hogar y jardín
 [imagen: Conocer más sobre Cuotas y descuentos en hogar y jardín]
-Todos los días en Simmons
 Todos los días en La Cardeuse
+Todos los días en Simmons
 Hasta 25% off y 6 cuotas cero interés
 Días seleccionados en Shopgallery
 Hasta 14 cuotas cero interés
-Todos los días en Suavestar
-Todos los días en Piero
-Todos los días en Rosen
 Todos los días en Suavegom
 Todos los días en Cannon
+Todos los días en Piero
+Todos los días en Suavestar
+Todos los días en Rosen
 Cuotas y descuentos en indumentaria deportiva
 [imagen: Conocer más sobre Cuotas y descuentos en indumentaria deportiva]
-Todos los días en Seven Sport
+Especial
 Todos los días en Exit
+Todos los días en Seven Sport
+8 cuotas cero interés
+Días seleccionados en Punto Deportivo
 Promo X
 5 cuotas cero interés
 Todos los días en Sweet
-8 cuotas cero interés
-Todos los días en Punto Deportivo
-Hasta 15 cuotas cero interés
-Todos los días en Showsport
+Hasta 10% off y 5 cuotas cero interés
+Días seleccionados en Showsport
 Hasta 9 cuotas cero interés
 Todos los días en Sportotal
 Todos los días en Vallejo Calzados
 Hasta 5 cuotas cero interés
-Todos los días en On Sports
+Todos los días en In Store
 [imagen: Logo de Naranja X]
 Descargá la app y disfrutá los beneficios
 Descargar app

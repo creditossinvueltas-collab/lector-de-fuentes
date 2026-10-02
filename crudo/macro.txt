@@ -1,8 +1,8 @@
 # fuente: Banco Macro · Beneficios
 # url: https://www.macro.com.ar/beneficios
-# leido: 2026-10-01
-# hash: a4c33d36
-# caracteres: 9436
+# leido: 2026-10-02
+# hash: 17976427
+# caracteres: 9401
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -356,7 +356,6 @@ PAC C/ BANCO MACRO – RESUMEN DE CUENTA MENSUAL
 CONSUMIDORES DAMNIFICADOS C/ MACRO – INTERESES GASTOS DE OTORGAMIENTO
 ADUC C/ BIA – DOLAR TARJETA
 INFRACCIÓN LEY DEFENSA DEL CONSUMIDOR
-ADACU vs PRISMA (Expte.11493/2019)
 INFORMACIÓN IMPORTANTE
 Mapa del Sitio
 Transparencia

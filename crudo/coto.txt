@@ -1,8 +1,8 @@
 # fuente: Coto · Descuentos
 # url: https://www.coto.com.ar/descuentos
-# leido: 2026-10-01
-# hash: dca79465
-# caracteres: 4357
+# leido: 2026-10-02
+# hash: 309b56b4
+# caracteres: 4311
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -24,25 +24,21 @@ Aire Libre
 Descuentos en COTO
 SELECCIONÁ EL DÍA PARA VER LAS PROMOS
 [imagen: Ver días anteriores]
-Jueves 1
 Viernes 2
 Sabado 3
 Domingo 4
 Lunes 5
 Martes 6
 Miercoles 7
+Jueves 8
 [imagen: Ver días siguientes]
 Online
 Sucursales
-[imagen: 20% DE DESCUENTO]
-20% DE DESCUENTO
-En un pago con tarjetas crédito y débito Visa
-Aplican exclusiones. Ver legales - Tope de Reintegro de $25.000
+[imagen: 18 CUOTAS SIN INTERÉS]
+18 CUOTAS SIN INTERÉS
+12-18 cuotas sin interés con tarjetas de crédito American Express de American express.
+Prod. Seleccionados Electro, Ferreteria, Automotor, Bazar, deportes, Muebles, camping, Jardineria, Rodados, decoracion. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
 Online
-[imagen: 30% DE DESCUENTO]
-30% DE DESCUENTO
-En un pago con tarjetas de crédito Visa y Mastercard.
-Aplican exclusiones. Ver legales - Sin tope de reintegro.
 [imagen: 18 CUOTAS SIN INTERÉS]
 18 CUOTAS SIN INTERÉS
 3-6-9-12-18 cuotas sin interés con tarjetas de crédito MasterCard del Banco Galicia.
@@ -71,8 +67,6 @@ Aplica en electrodomésticos. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver l
 Prod. Seleccionados de ferretería, automotor, juguetería, deportes, camping, rodados, librería, Bazar, libros, muebles, jardinería, Acc. De iluminación, blanquería, colchones. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
 3-6 cuotas sin interés con tarjetas de crédito Visa, Mastercard y American express.
 Productos de Electro. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
-[imagen: 18 CUOTAS SIN INTERÉS]
-18 CUOTAS SIN INTERÉS
 3-6-9-12-18 cuotas sin interés con tarjetas de crédito Cabal.
 Prod. Seleccionados de Electro. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
 18 cuotas sin interés con tarjetas de crédito visa y MasterCard.

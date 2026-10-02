@@ -1,0 +1,230 @@
+# fuente: Banco Santa Fe - Beneficios
+# url: https://www.bancosantafe.com.ar/personas/beneficios
+# leido: 2026-10-02
+# hash: 3d080e7a
+# caracteres: 5824
+# ---------------------------------------------------------------
+# Esto es el texto tal cual lo mostró la página. No está interpretado.
+# ---------------------------------------------------------------
+
+[imagen: logo color text black]
+[imagen: Ir a la página de inicio Banco Santa Fe]
+Personas
+[imagen: Personas]
+Empresas
+[imagen: Empresas]
+Gobierno
+[imagen: Gobierno]
+[imagen: Menú principal.]
+[imagen: Buscador.]
+Ayuda
+Hacete cliente
+Homebanking
+[imagen: Cabecera de la página.]
+Beneficios pensados para vos
+Todo lo que podés hacer con tus tarjetas, en un solo lugar.
+Hacete cliente
+Fácil y simple
+Adquirí tus productos en un mismo lugar.
+[imagen: beneficios home hero]
+[imagen: Beneficios Individuos]
+Fácil y simple
+Adquirí tus productos en un mismo lugar.
+Muchos beneficios
+Descuentos y cuotas en tus compras.
+Con ahorro
+Más productos, más beneficios.
+Todo online
+Operá con tus productos donde estés.
+Disfrutá de nuestros beneficios y descuentos
+[imagen: beneficios ML]
+Exclusivo Cuentas
+Mercado Libre
+Hasta 20% de ahorro todos los lunes. Válido hasta el 31/12/2026.
+[imagen: beneficios supermercado 2]
+Supermercados
+Hasta 30% de ahorro, válido hasta el 30/09/2026.
+[imagen: beneficios aerolineas]
+Aerolíneas Argentinas
+Hasta 6 cuotas sin interés, válido hasta el 31/12/2026
+[imagen: beneficios gastronomia 2]
+Gastronomía
+Hasta 25% de ahorro, válido hasta el 31/12/2026
+Más beneficios para vos
+Supermercados
+Ahorrá en los mejores supermercados con tu Tarjeta de Crédito Banco Santa Fe y MODO.
+Ver beneficios
+Experiencias
+Viví momentos únicos en festivales, recitales y propuestas gastronómicas.
+Empezá a disfrutar
+MODO
+Pagá con MODO desde la app de Banco Santa Fe y encontrá los locales adheridos.
+Conocé más
+Buscar promociones
+Todas
+Otros
+Gastronomía
+Entretenimiento
+Electro y Hogar
+Educación
+Joyas y Relojes
+Juguetes y Libros
+Moda
+Turismo
+Autos
+Supermercados y almacenes
+Salud y Belleza
+Construcción
+Mascotas
+[imagen: Anterior diapositiva.]
+[imagen: Siguiente diapositiva.]
+[imagen: Filtrar por]
+[imagen: Diapositiva 1]
+[imagen: Diapositiva 2]
+[imagen: Diapositiva 3]
+[imagen: Diapositiva 4]
+[imagen: Diapositiva 5]
+[imagen: Diapositiva 6]
+[imagen: Diapositiva 7]
+[imagen: Diapositiva 8]
+[imagen: Diapositiva 9]
+[imagen: Escoja la diapositiva a mostrar]
+[imagen: Buscador.]
+Más Filtros
+[imagen: Carnicerias]
+PAGA CON * MODO* DEBITO
+20% de descuento en Carnicerías
+Todos los Martes.
+Desde el 15/09/2026 hasta el 31/12/2026.
+Conocé más
+[imagen: TEMU]
+EXCLUSIVO CUENTA PAQUETE
+20% de descuento en TEMU
+Todos los Viernes y Sábado.
+Desde el 10/07/2026 hasta el 10/10/2026.
+[imagen: simmons]
+12 cuotas sin interés en Simmons
+Todos los días.
+Desde el 28/05/2026 hasta el 31/12/2026.
+[imagen: BELMO]
+12 cuotas sin interés en Belmo
+Todos los días.
+Desde el 28/05/2026 hasta el 31/12/2026.
+Recital Harlem Festival
+6 cuotas sin interés en Recital Harlem Festival
+Desde el 01/06/2026 hasta el 11/10/2026.
+[imagen: Babasonicos]
+6 cuotas sin interés en Babasonicos
+Desde el 15/07/2026 hasta el 11/12/2026.
+[imagen: Mercado Libre logo]
+EXCLUSIVO CUENTA PAQUETE
+20% de descuento en Mercado Libre
+Todos los Lunes.
+Desde el 23/03/2026 hasta el 31/12/2026.
+[imagen: Mc Donalds logo]
+VISA débito desde el celu
+40% de descuento en Mc DONALDS
+Todos los Sábado y Domingo.
+Desde el 01/04/2026 hasta el 01/11/2026.
+[imagen: ONCITY logo vertical rgb png]
+12 cuotas sin interés en ON CITY
+Desde el 07/01/2025 hasta el 31/12/2026.
+[imagen: ONCITY logo vertical rgb png]
+EXCLUSIVO STARLINK
+6 cuotas sin interés en On City
+Desde el 06/03/2026 hasta el 31/12/2026.
+[imagen: aa benefits]
+6 cuotas sin interés en Aerolineas Argentinas
+Desde el 31/12/2025 hasta el 31/12/2026.
+[imagen: aa benefits]
+3 cuotas sin interés en Aerolineas Argentinas
+Desde el 31/12/2025 hasta el 31/12/2026.
+Resultados 1 - 12 de 521
+[imagen: Ir a la página anterior]
+[imagen: Ir a la página 1]
+[imagen: Ir a la página 2]
+[imagen: Ir a la página 3]
+More pages
+44
+[imagen: Ir a la página 44]
+[imagen: Ir a la siguiente página]
+[imagen: Paginación]
+[imagen: Resultados.]
+[imagen: Contenido principal.]
+Sucursales
+[imagen: caret down]
+Sucursales, Cajeros y Santa Fe Servicios
+Cajeros No Videntes
+[imagen: Sucursales]
+Gestiones rápidas
+[imagen: caret down]
+¿Dónde está mi tarjeta?
+Revocación de Productos o Servicios
+Arrepentimiento o baja de productos
+Consultá el estado de tu reclamo o sugerencia
+Cuenta Gratuita Universal
+Home Banking No Videntes
+[imagen: Gestiones rápidas]
+Ayuda y contacto
+Contacto
+Teléfonos Útiles
+Atención a Usuarios de Servicios Financieros
+Reclamos
+Libro de Quejas on-line (CABA)
+Encuesta
+[imagen: Ayuda y contacto]
+Información operativa
+Cronograma de Pagos ANSES
+Comisiones y tasas de interés
+Riesgo operacional
+Reciprocidad
+[imagen: Información operativa]
+Información legal y seguridad
+Seguridad y prevención digital
+Política de privacidad y tratamiento de datos personales
+Código de prácticas bancarias
+Código de Conducta (ALyC/AN)
+Contratos adhesión – Ley 24.240 Defensa Consumidor
+Solicitud de contratos
+Defensa del Consumidor
+Defensa de las y los Consumidores - Para reclamos Ingrese aquí (Ventanilla Única Federal)
+Concursos y Campañas
+[imagen: Información legal y seguridad]
+Nosotros
+Institucional
+Fundación
+Información
+Sostenibilidad
+Código de conducta
+Carga tu CV
+[imagen: Nosotros]
+[imagen: Mapa web.]
+[imagen: logo color text black]
+[imagen: Banco Santa Fe]
+[imagen: Banco Santa Cruz]
+[imagen: Banco san juan]
+[imagen: Banco Entre rios]
+[imagen: Otros bancos]
+[imagen: facebook]
+[imagen: facebook]
+[imagen: instagram]
+[imagen: instagram]
+[imagen: x twitter]
+[imagen: x twitter]
+[imagen: whatsapp]
+[imagen: whatsapp]
+[imagen: youtube]
+[imagen: youtube]
+[imagen: linked in]
+[imagen: linked in]
+[imagen: Redes sociales.]
+[imagen: Consíguelo en App Store]
+[imagen: Disponible en Google Play]
+[imagen: copyright]
+2026 Banco de Santa Fe
+Todos los derechos reservados
+Términos y Condiciones
+[imagen: Banco central de la República Argentina Usuarios Financieros]
+[imagen: Pie de página.]
+[imagen: Contactanos por WhatsApp]
+[imagen: Notifications alt+T]

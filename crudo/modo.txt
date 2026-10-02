@@ -1,8 +1,8 @@
 # fuente: MODO · Promociones
 # url: https://www.modo.com.ar/promos
-# leido: 2026-10-01
-# hash: b6eaf28f
-# caracteres: 8026
+# leido: 2026-10-02
+# hash: f77566aa
+# caracteres: 8014
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -115,12 +115,16 @@ DESTACADAS
 [imagen: Hub card promo: El Solar]
 30% de reintegro en Tressen
 [imagen: Hub card promo: Tressen]
+20% de reintegro en Quotidiano
+[imagen: Hub card promo: Quotidiano]
 20% de reintegro en Jumbo
 [imagen: Hub card promo: Jumbo]
 20% de reintegro en Supermercados de Mendoza
 [imagen: Hub card promo: Supermercados de Mendoza]
 30% de reintegro en Patio de los Naranjos y San Horonato
 [imagen: Hub card promo: Patio de los Naranjos y San Horonato]
+20% de reintegro en Farmacias Farmava
+[imagen: Hub card promo: Farmacias Farmava]
 20% de reintegro en Tressen
 [imagen: Hub card promo: Tressen]
 30% de reintegro en El Paso Oeste Uru
@@ -190,6 +194,8 @@ DESTACADAS
 [imagen: Hub card promo: Restaurante Maria]
 30% de reintegro en Resto La Urumpta
 [imagen: Hub card promo: Resto La Urumpta]
+10% de reintegro en Shell
+[imagen: Hub card promo: Shell]
 10% de reintegro en Maricre
 [imagen: Hub card promo: Maricre]
 20% de reintegro en Mayorista Nini
@@ -215,14 +221,8 @@ DESTACADAS
 [imagen: Hub card promo: Nutrican]
 20% de reintegro en El Tunel
 [imagen: Hub card promo: El Tunel]
-15% de reintegro en Supermercado La Ilusión
-[imagen: Hub card promo: Supermercado La Ilusión]
 20% de reintegro en Supercoop CABA
 [imagen: Hub card promo: Supercoop CABA]
-20% de reintegro en Disco
-[imagen: Hub card promo: Disco]
-20% de reintegro en Grupo Giro
-[imagen: Hub card promo: Grupo Giro]
 Cargar más promos
 [imagen: facebook]
 [imagen: facebook]
