@@ -48,3 +48,22 @@
     "seccion": "body"
   }
 ]
+,
+    {"nombre":"Banco Galicia - Beneficios","archivo":"galicia","url":"https://beneficios.galicia.ar/","seccion":"body","candidata":true},
+{"nombre":"Santander - Beneficios","archivo":"santander","url":"https://www.santander.com.ar/personas/beneficios","seccion":"body","candidata":true},
+{"nombre":"BBVA - Beneficios","archivo":"bbva","url":"https://www.bbva.com.ar/beneficios/","seccion":"body","candidata":true},
+{"nombre":"Credicoop - Beneficios","archivo":"credicoop","url":"https://www.beneficios.bancocredicoop.coop/","seccion":"body","candidata":true},
+{"nombre":"Bancor - Promociones","archivo":"bancor","url":"https://www.bancor.com.ar/promociones","seccion":"body","candidata":true},
+{"nombre":"Banco Santa Fe - Beneficios","archivo":"santa-fe","url":"https://www.bancosantafe.com.ar/personas/beneficios","seccion":"body","candidata":true},
+{"nombre":"Banco Entre Rios - Beneficios","archivo":"entre-rios","url":"https://www.bancoentrerios.com.ar/personas/beneficios","seccion":"body","candidata":true},
+{"nombre":"Banco San Juan - Beneficios","archivo":"san-juan","url":"https://www.bancosanjuan.com/personas/beneficios","seccion":"body","candidata":true},
+{"nombre":"Banco Santa Cruz - Beneficios","archivo":"santa-cruz","url":"https://www.bancosantacruz.com/personas/beneficios","seccion":"body","candidata":true},
+{"nombre":"Brubank - Beneficios","archivo":"brubank","url":"https://www.brubank.com/beneficios","seccion":"body","candidata":true},
+{"nombre":"Uala - Promociones","archivo":"uala","url":"https://www.uala.com.ar/promociones","seccion":"body","candidata":true},
+{"nombre":"Prex - Promociones","archivo":"prex","url":"https://www.prexcard.com.ar/promociones","seccion":"body","candidata":true},
+{"nombre":"ICBC Mall","archivo":"icbc","url":"https://mall.icbc.com.ar","seccion":"body","candidata":true},
+{"nombre":"Jumbo - Descuentos del dia","archivo":"jumbo","url":"https://www.jumbo.com.ar/descuentos-del-dia","seccion":"body","candidata":true},
+{"nombre":"Disco - Descuentos del dia","archivo":"disco","url":"https://www.disco.com.ar/descuentos-del-dia","seccion":"body","candidata":true},
+{"nombre":"Vea - Descuentos del dia","archivo":"vea","url":"https://www.vea.com.ar/descuentos-del-dia","seccion":"body","candidata":true},
+{"nombre":"Shell - Descuentos vigentes","archivo":"shell","url":"https://www.shell.com.ar/conductores/descuentos-vigentes.html","seccion":"body","candidata":true}
+]
