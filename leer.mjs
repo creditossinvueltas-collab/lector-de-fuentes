@@ -1,7 +1,8 @@
 // Lector de fuentes.
 //
 // Abre cada página oficial con un navegador de verdad, espera a que termine de
-// armarse, y guarda el texto que quedó visible en fuentes/crudo/.
+// armarse, recorre TODAS las páginas del listado, y guarda el texto que quedó
+// visible en crudo/.
 //
 // A propósito NO intenta entender las promociones. Solo deja el texto crudo.
 // Interpretar lo que dice cada página es trabajo del robot, que usa criterio;
@@ -20,8 +21,22 @@ import { existsSync } from 'node:fs';
 
 const CARPETA = 'crudo';
 const ESPERA_MS = 45000;
-const MAX_CARACTERES = 120000;
+const MAX_CARACTERES = 400000;
 const MAX_EXPANDIR = 6;
+const MAX_PAGINAS = 60;
+
+// Líneas que NUNCA se descartan por repetidas.
+//
+// Esto arregla un error que nos costó caro: el filtro de abajo tira toda línea
+// que aparezca más de dos veces, para matar menús y pies de página. Pero en un
+// listado de promociones "Todos los días." se repite en decenas de promos, y a
+// partir de la tercera desaparecía. El texto quedaba mostrando la promo SIN sus
+// días, y quien lo leyera después asumía que valía siempre.
+//
+// Perder un día es peor que dejar un menú repetido: manda a alguien al comercio
+// un día que no corresponde.
+const ESENCIAL =
+  /^(todos los|todas las|todo el|lunes|martes|mi[eé]rcoles|jueves|viernes|s[áa]bados?|domingos?|de lunes|desde el|hasta el|v[áa]lido|vigencia|vigente|tope|reintegro|descuento|hasta \d|\d+\s*%|\d+\s*cuotas|sin tope|sin interés|sin interes)/i;
 
 // Limpia el texto: saca líneas repetidas, espacios de más y menús de navegación
 function limpiar(texto) {
@@ -30,15 +45,79 @@ function limpiar(texto) {
     .map((l) => l.replace(/\s+/g, ' ').trim())
     .filter((l) => l.length > 1);
 
-  // Una misma línea repetida muchas veces suele ser el menú o el pie de página
+  // Una misma línea repetida muchas veces suele ser el menú o el pie de página,
+  // salvo que diga algo de la promoción (días, fechas, topes): eso nunca se tira.
   const vistas = new Map();
   const salida = [];
   for (const linea of lineas) {
+    if (ESENCIAL.test(linea)) {
+      salida.push(linea);
+      continue;
+    }
     const veces = (vistas.get(linea) ?? 0) + 1;
     vistas.set(linea, veces);
     if (veces <= 2) salida.push(linea);
   }
   return salida.join('\n').slice(0, MAX_CARACTERES);
+}
+
+// Saca el texto visible, poniendo el nombre de cada imagen justo donde está.
+//
+// Muchos bancos ponen el nombre del comercio en el logo, no en el texto: sin esto
+// la promo queda como "Lunes 20% de ahorro" y no se sabe de qué comercio habla.
+async function textoVisible(pagina, selector) {
+  return pagina.evaluate((sel) => {
+    const raiz = document.querySelector(sel) ?? document.body;
+    const basura =
+      /^(icono?|icon|logo|imagen|image|img|banner|foto|flecha|arrow|next|prev|cerrar|close|abrir|open|menu|men[uú])$/i;
+    raiz.querySelectorAll('img[alt], [aria-label], svg[title]').forEach((el) => {
+      // Al recorrer varias páginas pasamos por acá más de una vez: no remarcamos
+      if (el.dataset.yaMarcado === '1') return;
+      const crudoAlt = el.getAttribute('alt') ?? el.getAttribute('aria-label') ?? '';
+      const nombre = crudoAlt.replace(/[_-]+/g, ' ').replace(/\s+/g, ' ').trim();
+      if (nombre.length < 3 || nombre.length > 120 || basura.test(nombre)) return;
+      el.dataset.yaMarcado = '1';
+      const marca = document.createElement('div');
+      marca.textContent = '[imagen: ' + nombre + ']';
+      (el.parentElement ?? raiz).insertBefore(marca, el.nextSibling);
+    });
+    return raiz.innerText ?? '';
+  }, selector);
+}
+
+// Aprieta el botón de "siguiente página" si existe y si no está deshabilitado.
+//
+// Pide que diga explícitamente "página", para no confundirse con las flechas de
+// los carruseles ("Siguiente diapositiva"), que están en casi todas estas webs
+// y nos harían girar un banner en vez de avanzar el listado.
+async function pasarDePagina(pagina) {
+  return pagina
+    .evaluate(() => {
+      const esVisible = (el) => {
+        const r = el.getBoundingClientRect();
+        return r.width > 0 && r.height > 0;
+      };
+      const apagado = (el) =>
+        el.hasAttribute('disabled') ||
+        el.getAttribute('aria-disabled') === 'true' ||
+        el.closest('[aria-disabled="true"], .disabled, [disabled]') !== null;
+
+      const dicePagina = /(siguiente\s+p[áa]gina|p[áa]gina\s+siguiente|next\s+page|ir\s+a\s+la\s+siguiente)/i;
+      const candidatos = [...document.querySelectorAll('a, button, [role="button"], [role="link"]')];
+
+      const boton = candidatos.find((el) => {
+        if (!esVisible(el) || apagado(el)) return false;
+        if (el.getAttribute('rel') === 'next') return true;
+        const etiqueta = (el.getAttribute('aria-label') || el.getAttribute('title') || el.innerText || '').trim();
+        return dicePagina.test(etiqueta);
+      });
+
+      if (!boton) return false;
+      boton.scrollIntoView({ block: 'center' });
+      boton.click();
+      return true;
+    })
+    .catch(() => false);
 }
 
 async function leerUna(navegador, fuente) {
@@ -64,47 +143,53 @@ async function leerUna(navegador, fuente) {
     // de un botón. Lo apretamos hasta MAX_EXPANDIR veces. Es una regla general,
     // no una regla por sitio: si el botón no está, no pasa nada.
     for (let i = 0; i < MAX_EXPANDIR; i++) {
-      const apretado = await pagina.evaluate(() => {
-        const esVisible = (el) => {
-          const r = el.getBoundingClientRect();
-          return r.width > 0 && r.height > 0;
-        };
-        const candidatos = [...document.querySelectorAll('button, a, [role="button"]')];
-        const boton = candidatos.find(
-          (el) => /^(mostrar|ver|cargar)\s+(m[áa]s|todas?|todos)/i.test((el.innerText || '').trim()) && esVisible(el),
-        );
-        if (!boton) return false;
-        boton.click();
-        return true;
-      }).catch(() => false);
+      const apretado = await pagina
+        .evaluate(() => {
+          const esVisible = (el) => {
+            const r = el.getBoundingClientRect();
+            return r.width > 0 && r.height > 0;
+          };
+          const candidatos = [...document.querySelectorAll('button, a, [role="button"]')];
+          const boton = candidatos.find(
+            (el) =>
+              /^(mostrar|ver|cargar)\s+(m[áa]s|todas?|todos)/i.test((el.innerText || '').trim()) && esVisible(el),
+          );
+          if (!boton) return false;
+          boton.click();
+          return true;
+        })
+        .catch(() => false);
       if (!apretado) break;
       await pagina.waitForTimeout(2000);
     }
     await pagina.evaluate(() => window.scrollTo(0, document.body.scrollHeight)).catch(() => {});
     await pagina.waitForTimeout(1500);
 
-    // Muchos bancos ponen el nombre del comercio en el logo, no en el texto: sin esto
-    // la promo queda como "Lunes 20% de ahorro" y no se sabe de qué comercio habla.
-    // Metemos el nombre de cada imagen justo donde está la imagen, para que quede
-    // pegado a su promoción y no en una lista suelta al final.
-    const crudo = await pagina.evaluate((selector) => {
-      const raiz = document.querySelector(selector) ?? document.body;
-      const basura = /^(icono?|icon|logo|imagen|image|img|banner|foto|flecha|arrow|next|prev|cerrar|close|abrir|open|menu|men[uú])$/i;
-      raiz.querySelectorAll('img[alt], [aria-label], svg[title]').forEach((el) => {
-        const crudoAlt = el.getAttribute('alt') ?? el.getAttribute('aria-label') ?? '';
-        const nombre = crudoAlt.replace(/[_-]+/g, ' ').replace(/\s+/g, ' ').trim();
-        if (nombre.length < 3 || nombre.length > 120 || basura.test(nombre)) return;
-        const marca = document.createElement('div');
-        marca.textContent = '[imagen: ' + nombre + ']';
-        (el.parentElement ?? raiz).insertBefore(marca, el.nextSibling);
-      });
-      return raiz.innerText ?? '';
-    }, fuente.seccion || 'body');
+    // Otras reparten las promos en páginas numeradas. Banco Santa Fe tiene 521
+    // promociones en 44 páginas: leyendo solo la primera nos perdíamos el 97%.
+    const partes = [];
+    let paginas = 0;
+    let anterior = '';
 
-    const texto = limpiar(crudo);
+    for (let p = 0; p < MAX_PAGINAS; p++) {
+      const actual = await textoVisible(pagina, fuente.seccion || 'body');
+      // Si el contenido no cambió, el botón no llevaba a ningún lado: cortamos
+      if (p > 0 && actual === anterior) break;
+      partes.push(actual);
+      anterior = actual;
+      paginas = p + 1;
+
+      if (partes.join('\n').length > MAX_CARACTERES) break;
+
+      const avanzo = await pasarDePagina(pagina);
+      if (!avanzo) break;
+      await pagina.waitForTimeout(2500);
+    }
+
+    const texto = limpiar(partes.join('\n'));
     if (texto.length < 200) throw new Error(`La página devolvió muy poco texto (${texto.length} caracteres)`);
 
-    return { ok: true, texto };
+    return { ok: true, texto, paginas };
   } catch (e) {
     return { ok: false, error: String(e.message || e) };
   } finally {
@@ -148,6 +233,7 @@ async function main() {
       `# url: ${fuente.url}\n` +
       `# leido: ${hoy}\n` +
       `# hash: ${hash}\n` +
+      `# paginas: ${r.paginas}\n` +
       `# caracteres: ${r.texto.length}\n` +
       `# ---------------------------------------------------------------\n` +
       `# Esto es el texto tal cual lo mostró la página. No está interpretado.\n` +
@@ -156,10 +242,13 @@ async function main() {
     await writeFile(destino, encabezado + r.texto, 'utf8');
 
     const cambio = hash !== hashAnterior;
-    console.log(`${cambio ? 'CAMBIÓ' : 'sin cambios'} · ${r.texto.length} caracteres (${segundos}s)`);
+    console.log(
+      `${cambio ? 'CAMBIÓ' : 'sin cambios'} · ${r.paginas} pág · ${r.texto.length} caracteres (${segundos}s)`,
+    );
     resumen.push({
       fuente: fuente.nombre,
       estado: cambio ? 'cambio' : 'sin_cambios',
+      paginas: r.paginas,
       caracteres: r.texto.length,
       segundos,
     });
@@ -171,10 +260,11 @@ async function main() {
   const lineas = [
     `# Corrida del ${hoy}`,
     '',
-    '| Fuente | Estado | Caracteres | Segundos |',
-    '|---|---|---|---|',
+    '| Fuente | Estado | Páginas | Caracteres | Segundos |',
+    '|---|---|---|---|---|',
     ...resumen.map(
-      (r) => `| ${r.fuente} | ${r.estado}${r.detalle ? ': ' + r.detalle.slice(0, 80) : ''} | ${r.caracteres ?? '-'} | ${r.segundos} |`,
+      (r) =>
+        `| ${r.fuente} | ${r.estado}${r.detalle ? ': ' + r.detalle.slice(0, 80) : ''} | ${r.paginas ?? '-'} | ${r.caracteres ?? '-'} | ${r.segundos} |`,
     ),
   ];
   await writeFile(`${CARPETA}/_resumen.md`, lineas.join('\n') + '\n', 'utf8');
