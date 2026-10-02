@@ -1,9 +1,9 @@
 # fuente: Banco Nación · Descuentos
 # url: https://www.bna.com.ar/Personas/DescuentosYPromociones
 # leido: 2026-10-02
-# hash: 9d6c1bda
+# hash: 01492bac
 # paginas: 1
-# caracteres: 1100
+# caracteres: 925
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -22,31 +22,25 @@ Si cobrás en BNA, extendemos tu bonificación.
 Del 1-9-2026 al 31-10-2026
 YPF
 20% de descuento
-Del 1-3-2026 al 30-9-2026
+Del 1-3-2026 al 31-10-2026
 Shopping con BNA
 20% de descuento y hasta 9 cuotas sin interes
-Del 23-9-2026 al 24-9-2026
+Del 7-10-2026 al 8-10-2026
 Tucson
 25% de ahorro todos los días.
 Del 1-9-2026 al 30-9-2026
-Especial Aerolineas Argentinas
--30%y hasta 18 cuotas sin interés
-Del 14-9-2026 al 20-9-2026
 Supermercados
 Hasta 30% de descuento.
 Del 1-5-2026 al 31-8-2026
 SHELL
 20% en un pago.
-Del 1-3-2026 al 31-8-2026
+Del 1-3-2026 al 31-10-2026
 COTO
 20% de descuento los días martes.
 Del 18-8-2026 al 31-10-2026
 KFC
 -20% de descuento.
-Del 1-6-2026 al 30-9-2026
-Jurassic World: The experience
-Hasta 3 cuotas sin interés.
-Del 21-5-2026 al 30-9-2026
+Del 1-6-2026 al 31-10-2026
 Los beneficios no son acumulables ni combinables con otra promoción. Consultar condiciones, tarjetas participantes, vigencia y topes haciendo clic en cada promoción.
 Consultas: 0810-666-4444 de lunes a viernes de 08:00 a 20:00 horas
 Las fotos son a modo ilustrativo

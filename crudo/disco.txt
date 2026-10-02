@@ -1,7 +1,7 @@
 # fuente: Disco - Descuentos del dia
 # url: https://www.disco.com.ar/descuentos-del-dia
 # leido: 2026-10-02
-# hash: 3a94957e
+# hash: 9ea3894d
 # paginas: 1
 # caracteres: 8991
 # ---------------------------------------------------------------
@@ -178,8 +178,8 @@ Seguridad y Privacidad |
 Términos más buscados
 1.Leche
 2.Cafe
-3.Cerveza
-4.Galletitas
+3.Galletitas
+4.Cerveza
 5.Carne
 6.Yerba
 7.Queso

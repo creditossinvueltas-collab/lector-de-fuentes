@@ -1,9 +1,9 @@
 # fuente: Naranja X · Promociones
 # url: https://www.naranjax.com/promociones
 # leido: 2026-10-02
-# hash: 675950a0
+# hash: b5c07f57
 # paginas: 1
-# caracteres: 4992
+# caracteres: 4979
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -21,7 +21,7 @@ Dinero
 Beneficios
 Seguros
 Somos NX
-Santiago de Querétaro
+San Jose
 [imagen: Icono filtro]
 [imagen: HEADER.OPEN FILTERS]
 Medios de pago

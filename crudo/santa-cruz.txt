@@ -1,9 +1,9 @@
 # fuente: Banco Santa Cruz - Beneficios
 # url: https://www.bancosantacruz.com/personas/beneficios
 # leido: 2026-10-02
-# hash: 67c2a859
+# hash: 54f50d62
 # paginas: 21
-# caracteres: 46957
+# caracteres: 47033
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -940,10 +940,12 @@ Hasta 25% de ahorro, válido hasta el 31/12/2026
 10% de descuento y 3 cuotas sin interés en Bauen Maderas
 Todos los Viernes.
 Desde el 01/01/2025 hasta el 31/12/2026.
+[imagen: arrow right]
 [imagen: DEL SUR HOGAR]
 10% de descuento y 3 cuotas sin interés en Del Sur Hogar
 Todos los Viernes.
 Desde el 01/01/2025 hasta el 31/12/2026.
+[imagen: arrow right]
 [imagen: DISTRIBUIDORA RIO (webp)]
 10% de descuento y 3 cuotas sin interés en Distribuidora Rio
 Todos los Viernes.
@@ -981,6 +983,7 @@ Desde el 01/04/2025 hasta el 30/12/2026.
 Todos los días.
 Desde el 01/04/2025 hasta el 30/12/2026.
 [imagen: LOGO CAFE MARTINEZ]
+[imagen: device mobile speaker]
 Pagando con *MODO*
 25% de descuento en Cafe Martinez
 Todos los Miércoles y Jueves.

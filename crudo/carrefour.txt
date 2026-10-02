@@ -1,7 +1,7 @@
 # fuente: Carrefour · Descuentos bancarios
 # url: https://www.carrefour.com.ar/descuentos-bancarios
 # leido: 2026-10-02
-# hash: abc0c28e
+# hash: 42b801c0
 # paginas: 1
 # caracteres: 60668
 # ---------------------------------------------------------------
@@ -329,9 +329,6 @@ Rusticas
 Cerveza
 Yerba
 Seleccioná un carrito de compra
-TU OPINIÓN
-Compartinos tu experiencia para ayudarnos a mejorar
-DEJAR MI COMENTARIO
 [imagen: Acerca de tu privacidad]
 Nos preocupamos por tu privacidad
 Tanto INC S.A. como sus sociedades sucesoras y/o cesionarias y/o sus accionistas y/o controlantes y/o controladas almacenan y/o acceden a la información de un dispositivo, como los identificadores únicos en las cookies para tratar los datos personales. Se pueden aceptar o gestionar las preferencias haciendo click en el enlace que aparece a continuación o en cualquier momento en https://www.carrefour.com.ar/legales. Estas preferencias serán procesadas y no afectarán a los datos de navegación.
@@ -343,3 +340,6 @@ Aceptar todo
 Rechazar todo
 Gestionar preferencias
 [imagen: Nos preocupamos por tu privacidad]
+TU OPINIÓN
+Compartinos tu experiencia para ayudarnos a mejorar
+DEJAR MI COMENTARIO
