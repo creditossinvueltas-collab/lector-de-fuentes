@@ -1,9 +1,9 @@
 # fuente: Uala - Promociones
 # url: https://www.uala.com.ar/promociones
-# leido: 2026-10-02
-# hash: 50fb8ebc
+# leido: 2026-10-03
+# hash: 8420221e
 # paginas: 1
-# caracteres: 3250
+# caracteres: 3189
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -48,9 +48,6 @@ en tus primeros 5 viajes
 [imagen: Logo Gravl]
 20% de descuento
 en el Plan Anual
-[imagen: PeyaPlus+MC logo lightmode]
-3 meses gratis
-y 6 meses con un 50% de descuento
 [imagen: Sportclub]
 20% de descuento
 en los planes Total y Plus mensual
@@ -151,6 +148,7 @@ Código de Prácticas Bancarias
 Gestión de Cobranzas
 Códigos de conducta
 Acuerdos Acciones de clase
+Informe de transparencia
 [imagen: AR Imagen AAIP]
 [imagen: AR Imagen UsuarioFinanciero]
 Encontrala en los Stores

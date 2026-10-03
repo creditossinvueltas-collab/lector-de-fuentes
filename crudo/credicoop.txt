@@ -1,6 +1,6 @@
 # fuente: Credicoop - Beneficios
 # url: https://www.beneficios.bancocredicoop.coop/
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: 4857e297
 # paginas: 1
 # caracteres: 4270

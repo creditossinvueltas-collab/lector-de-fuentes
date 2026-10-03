@@ -1,0 +1,146 @@
+# fuente: Banco Santa Fe - Tarjetas de debito
+# url: https://www.bancosantafe.com.ar/personas/tarjetas/debito
+# leido: 2026-10-03
+# hash: 991a3594
+# paginas: 1
+# caracteres: 4346
+# ---------------------------------------------------------------
+# Esto es el texto tal cual lo mostró la página. No está interpretado.
+# ---------------------------------------------------------------
+
+[imagen: logo color text black]
+[imagen: Ir a la página de inicio Banco Santa Fe]
+Personas
+[imagen: Personas]
+Empresas
+[imagen: Empresas]
+Gobierno
+[imagen: Gobierno]
+[imagen: Menú principal.]
+[imagen: Buscador.]
+Ayuda
+Hacete cliente
+Homebanking
+[imagen: Cabecera de la página.]
+Tarjeta de Débito
+Solicitá tu Cuenta Paquete y recibí tu tarjeta de débito.
+Hacete cliente
+[imagen: tarjetas debito hero (1)]
+[imagen: Tarjeta de débito]
+Descubrí ventajas únicas con tu tarjeta
+Extracciones
+Retirá por cajeros automáticos y comercios Extra Cash.
+Depósitos
+Depositá efectivo en nuestra red de cajeros automáticos.
+Transferencias
+Enviá dinero a través de Home Banking y cajeros automáticos.
+Pagos
+Pagá impuestos por Home Banking o en pluspagos.com.
+Otros beneficios
+Utilización de tus fondos disponibles de manera electrónica.
+Seguridad, no utilizando efectivo.
+Beneficios y reintegros por pagos en comercios, pagando con MODO.
+Cuotificá tus consumos con tarjeta de débito.
+Usá tu tarjeta con MODO, Apple Pay o Google Pay.
+[imagen: Tarjeta debito santa fe tamaño md]
+[imagen: Tarjeta debito santa fe tamaño xs]
+[imagen: Tarjeta de débito]
+¿En qué podemos ayudarte?
+¿Qué es Clave Canales Banco Santa Fe?
+Es tu clave de 4 dígitos para acceder a nuestro Centro de Atención Telefónica (0800 444 6273), realizar operaciones a través de las Terminales de Autoservicios ubicadas en nuestra red de sucursales y efectuar compras pagando con QR.
+Clave Banco Santa Fe y Clave de Canales, ¿son lo mismo?
+¿Cómo obtengo o modifico la clave de canales Banco Santa Fe?
+¿Qué es mi clave PIN?
+¿Qué es mi clave PIL?
+¿Cómo genero mi clave PIL?
+¿Cómo blanqueo mis claves de PIN / PIL?
+¿Cómo denuncio el robo o extravío de mi Tarjeta de Débito?
+Mi tarjeta se venció, ¿qué hago?
+¿Cómo habilito mi Tarjeta de Débito?
+¿Cómo puedo modificar el límite de extracción diario?
+¿Cómo puedo extraer dinero con mi Tarjeta de Débito sin ir al banco ni a un Cajero Automático?
+¿Puedo enviar dinero a alguien que no tiene cuenta?
+¿Necesito Clave o PIN para comprar en comercios con mi Tarjeta Visa Débito Banco Santa Fe?
+Mi Tarjeta Visa Débito, ¿puede estar asociada a una o varias cuentas (por ejemplo, mi Caja de Ahorro Dólares)?
+¿Puedo operar con mi Tarjeta Visa Débito en el exterior?
+¿Cómo cambio mi clave o desbloqueo mi usuario de Home Banking?
+¿Tenés más dudas?
+Ir a ayuda
+[imagen: Contenido principal.]
+Sucursales
+[imagen: caret down]
+Sucursales, Cajeros y Santa Fe Servicios
+Cajeros No Videntes
+[imagen: Sucursales]
+Gestiones rápidas
+[imagen: caret down]
+¿Dónde está mi tarjeta?
+Revocación de Productos o Servicios
+Arrepentimiento o baja de productos
+Consultá el estado de tu reclamo o sugerencia
+Cuenta Gratuita Universal
+Home Banking No Videntes
+[imagen: Gestiones rápidas]
+Ayuda y contacto
+Contacto
+Teléfonos Útiles
+Atención a Usuarios de Servicios Financieros
+Reclamos
+Libro de Quejas on-line (CABA)
+Encuesta
+[imagen: Ayuda y contacto]
+Información operativa
+Cronograma de Pagos ANSES
+Comisiones y tasas de interés
+Riesgo operacional
+Reciprocidad
+[imagen: Información operativa]
+Información legal y seguridad
+Seguridad y prevención digital
+Política de privacidad y tratamiento de datos personales
+Código de prácticas bancarias
+Código de Conducta (ALyC/AN)
+Contratos adhesión – Ley 24.240 Defensa Consumidor
+Solicitud de contratos
+Defensa del Consumidor
+Defensa de las y los Consumidores - Para reclamos Ingrese aquí (Ventanilla Única Federal)
+Concursos y Campañas
+[imagen: Información legal y seguridad]
+Nosotros
+Institucional
+Fundación
+Información
+Sostenibilidad
+Código de conducta
+Carga tu CV
+[imagen: Nosotros]
+[imagen: Mapa web.]
+[imagen: logo color text black]
+[imagen: Banco Santa Fe]
+[imagen: Banco Santa Cruz]
+[imagen: Banco san juan]
+[imagen: Banco Entre rios]
+[imagen: Otros bancos]
+[imagen: facebook]
+[imagen: facebook]
+[imagen: instagram]
+[imagen: instagram]
+[imagen: x twitter]
+[imagen: x twitter]
+[imagen: whatsapp]
+[imagen: whatsapp]
+[imagen: youtube]
+[imagen: youtube]
+[imagen: linked in]
+[imagen: linked in]
+[imagen: Redes sociales.]
+[imagen: Consíguelo en App Store]
+[imagen: Disponible en Google Play]
+[imagen: copyright]
+2026 Banco de Santa Fe
+Todos los derechos reservados
+Términos y Condiciones
+[imagen: Banco central de la República Argentina Usuarios Financieros]
+[imagen: Pie de página.]
+[imagen: Contactanos por WhatsApp]
+[imagen: Notifications alt+T]

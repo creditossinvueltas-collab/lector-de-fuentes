@@ -1,6 +1,6 @@
 # fuente: Prex - Promociones
 # url: https://www.prexcard.com.ar/promociones
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: 7a27abcd
 # paginas: 1
 # caracteres: 3164

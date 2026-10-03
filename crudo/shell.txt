@@ -1,6 +1,6 @@
 # fuente: Shell - Descuentos vigentes
 # url: https://www.shell.com.ar/conductores/descuentos-vigentes.html
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: 0139cd23
 # paginas: 1
 # caracteres: 22351

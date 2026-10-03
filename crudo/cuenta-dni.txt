@@ -1,6 +1,6 @@
 # fuente: Banco Provincia · Cuenta DNI
 # url: https://www.bancoprovincia.com.ar/cuentadni/contenidos/cdniBeneficios/
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: a575b432
 # paginas: 1
 # caracteres: 1465

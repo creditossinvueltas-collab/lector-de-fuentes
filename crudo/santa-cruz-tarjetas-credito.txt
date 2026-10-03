@@ -1,5 +1,5 @@
-# fuente: Banco Santa Cruz - Beneficios
-# url: https://www.bancosantacruz.com/personas/beneficios
+# fuente: Banco Santa Cruz - Tarjetas de credito
+# url: https://www.bancosantacruz.com/personas/tarjetas-credito
 # leido: 2026-10-03
 # hash: 0b4d60a1
 # paginas: 21

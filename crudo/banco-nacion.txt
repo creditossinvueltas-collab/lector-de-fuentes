@@ -1,6 +1,6 @@
 # fuente: Banco Nación · Descuentos
 # url: https://www.bna.com.ar/Personas/DescuentosYPromociones
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: 01492bac
 # paginas: 1
 # caracteres: 925

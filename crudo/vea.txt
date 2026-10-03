@@ -1,9 +1,9 @@
 # fuente: Vea - Descuentos del dia
 # url: https://www.vea.com.ar/descuentos-del-dia
-# leido: 2026-10-02
-# hash: 9872eb72
+# leido: 2026-10-03
+# hash: a6b322b7
 # paginas: 1
-# caracteres: 8895
+# caracteres: 7860
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -40,13 +40,10 @@ en Linea Blanca
 Exclusivo Online
 DESDE EL 28/09/2026 AL 04/10/2026. EXCLUYE CALEFACCIÓN. NO VÁLIDO PARA ACOPIO, VENTA MAYORISTA, RETIRA CLIENTE NI PAGO DE SERVICIOS. ESTA PROMOCIÓN NO APLICA PARA CLIENTES EN MORA O INHABILITADOS.
 Ver más
-20 %
-en compras iguales o superiores a $100.000
-Válido para pagos efectuados mediante la billetera MODO con tarjetas de débito adheridas o con tarjetas de crédito adheridas en 1 (una) cuota. El beneficio es acumulable con otras promociones vigentes que apliquen pagando con MODO. Se otorgará un reintegro conforme las condiciones de cada entidad financiera adherida, con un tope máximo de reintegro de $25.000 por banco, por usuario y por mes calendario, para compras iguales o superiores a $100.000. El tope de reintegro es único y compartido con canal de venta, por lo que las compras efectuadas por cualquier modalidad acumularán para el mismo límite máximo de beneficio mensual. Las promociones con MODO no se encuentran disponibles para compras realizadas en la localidad de Pilar, debido a la aplicación de la Tasa de Protección Ambiental Municipal del Partido de Pilar.
-Ver más
 3 6 y 12 Cuotas sin interés
 en Muebles de exterior y más
 PROMOCIONES VÁLIDAS TODOS LOS DÍAS DEL 01/10/2026 AL 31/10/2026 EN LA REPÚBLICA ARGENTINA EXCLUSIVO CON PAGOS CON QR Y TARJETA FISICA DE CENCOPAY CRÉDITO. PROMOCIÓN VÁLIDA EN LOS LOCALES HABILITADOS Y SITIO WEB OBTENIENDO SOLO 3, 6 Y 12 CUOTAS SIN INTERÉS EN BICICLETAS Y MUEBLES DE EXTERIOR SIN MÍNIMO DE COMPRA .
+Ver más
 3 ,6 y 12 Cuotas sin Interés
 en Electrodomésticos seleccionados.
 PROMOCIÓN VÁLIDA CON LA TARJETA DE CRÉDITO FÍSICA CENCOPAY TODOS LOS DÍAS DESDE EL 01/01/2026 AL 31/10/2026. ELECTROS SELECCIONADOS.
@@ -66,9 +63,6 @@ PROMOCIONES VÁLIDAS TODOS LOS DÍAS DEL 01/10/2026 AL 31/10/2026. PROMOCIÓN V�
 18 cuotas sin interés
 en Tv y más
 PARA MÁS INFORMACIÓN Y CONDICIONES O LIMITACIONES APLICABLES, CONSULTE EN CENCOPAY.AR PROMOCIONES VÁLIDAS TODOS LOS DÍAS DEL 01/10/2026 AL 31/10/2026 PROMOCION VÁLIDA OBBTENIENDO SOLO 18 CUOTAS SIN INTERÉS EN TELEVISORES, AIRES ACONDICIONADOS Y LÍNEA BLANCA SIN MÍNIMO DE COMPRA .
-30 %
-en toda la compra
-PROMOCIÓN VÁLIDA PARA COMPRAS REALIZADAS SOLO POR EL 02/10/2026 EN LA REPÚBLICA ARGENTINA EXCLUSIVO CON PAGOS CON QR Y CUENTA DIGITAL.
 18 Cuotas sin interés
 en Electro
 18 CUOTAS SIN INTERÉS EN ELECTRODOMÉSTICOS SELECCIONADOS. PROMOCIONES VÁLIDAS PARA COMPRAS REALIZADAS DEL 01/10/2026 AL 31/10/2026 EN LA REPÚBLICA ARGENTINA CON TARJETA DE CRÉDITO FÍSICA CENCOPAY.

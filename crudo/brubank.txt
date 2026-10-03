@@ -1,6 +1,6 @@
 # fuente: Brubank - Beneficios
 # url: https://www.brubank.com/beneficios
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: f1a8013c
 # paginas: 1
 # caracteres: 7728

@@ -1,5 +1,5 @@
-# fuente: Banco San Juan - Beneficios
-# url: https://www.bancosanjuan.com/personas/beneficios
+# fuente: Banco San Juan - Tarjetas de credito
+# url: https://www.bancosanjuan.com/personas/tarjetas-credito
 # leido: 2026-10-03
 # hash: ab99c36f
 # paginas: 28

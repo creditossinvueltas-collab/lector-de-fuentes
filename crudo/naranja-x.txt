@@ -1,9 +1,9 @@
 # fuente: Naranja X · Promociones
 # url: https://www.naranjax.com/promociones
-# leido: 2026-10-02
-# hash: b5c07f57
+# leido: 2026-10-03
+# hash: 3940fe96
 # paginas: 1
-# caracteres: 4979
+# caracteres: 4904
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -21,7 +21,7 @@ Dinero
 Beneficios
 Seguros
 Somos NX
-San Jose
+Cheyenne
 [imagen: Icono filtro]
 [imagen: HEADER.OPEN FILTERS]
 Medios de pago
@@ -83,25 +83,23 @@ Conocer más
 [imagen: Card Brand Image]
 Hasta 18 cuotas cero interés
 Todos los días en Ibaceta
-[imagen: Card Brand Image]
-10% off y 6 cuotas cero interés
-Todos los días en Cata
 Cuotas en tecno y electro
 Conocer más
 [imagen: Conocer más sobre Cuotas en tecno y electro]
 Especial
+[imagen: Card Brand Image]
 Hasta 14 cuotas cero interés
 Todos los días en Casa del Audio
 Hasta 12 cuotas cero interés
-Todos los días en Fravega
+Todos los días en Cetrogar
+Hasta 12 cuotas cero interés
+Todos los días en Naldo
 Hasta 12 cuotas cero interés
 Todos los días en Megatone
 Hasta 12 cuotas cero interés
 Todos los días en On City
 Hasta 12 cuotas cero interés
-Todos los días en Cetrogar
-Hasta 12 cuotas cero interés
-Todos los días en Naldo
+Todos los días en Fravega
 Hasta 12 cuotas cero interés
 Todos los días en Whirlpool
 Día de la madre
@@ -115,9 +113,7 @@ Hasta 25% off y 24 cuotas fijas
 Todos los días en Viajes Naranjax
 Débito
 Hasta 10% off y 6 cuotas cero interés
-Todos los días en Chevallier
-Hasta 10% off y 6 cuotas cero interés
-Todos los días en El Norte
+Todos los días en General Urquiza Transportes
 Hasta 10% off y 6 cuotas cero interés
 Todos los días en Andesmar
 Hasta 10% off y 6 cuotas cero interés
@@ -125,9 +121,11 @@ Todos los días en Plusmar
 Hasta 10% off y 6 cuotas cero interés
 Todos los días en Flecha Bus
 Hasta 10% off y 6 cuotas cero interés
-Todos los días en La Veloz del Norte
+Todos los días en El Norte
+10% off y 6 cuotas cero interés
+Todos los días en El Practico
 Hasta 10% off y 6 cuotas cero interés
-Todos los días en General Urquiza Transportes
+Todos los días en Chevallier
 Cuotas y descuentos en hogar y jardín
 [imagen: Conocer más sobre Cuotas y descuentos en hogar y jardín]
 Hasta 12 cuotas cero interés
@@ -137,22 +135,22 @@ Todos los días en Simmons
 Hasta 25% off y 6 cuotas cero interés
 Días seleccionados en Shopgallery
 Hasta 14 cuotas cero interés
-Todos los días en Suavegom
-Hasta 14 cuotas cero interés
 Todos los días en Cannon
 Hasta 14 cuotas cero interés
-Todos los días en Piero
+Todos los días en Suavegom
 Hasta 14 cuotas cero interés
 Todos los días en Suavestar
 Hasta 14 cuotas cero interés
 Todos los días en Rosen
+Hasta 18 cuotas cero interés
+Todos los días en Essen
 Cuotas y descuentos en indumentaria deportiva
 [imagen: Conocer más sobre Cuotas y descuentos en indumentaria deportiva]
 Especial
 Hasta 12 cuotas cero interés
-Todos los días en Exit
-Hasta 12 cuotas cero interés
 Todos los días en Seven Sport
+Hasta 12 cuotas cero interés
+Todos los días en Exit
 8 cuotas cero interés
 Días seleccionados en Punto Deportivo
 Promo X
@@ -160,12 +158,12 @@ Promo X
 Todos los días en Sweet
 Hasta 10% off y 5 cuotas cero interés
 Días seleccionados en Showsport
-Hasta 9 cuotas cero interés
-Todos los días en Sportotal
-Hasta 9 cuotas cero interés
-Todos los días en Vallejo Calzados
 Hasta 5 cuotas cero interés
 Todos los días en In Store
+Hasta 5 cuotas cero interés
+Todos los días en On Sports
+Hasta 9 cuotas cero interés
+Todos los días en Sportotal
 [imagen: Logo de Naranja X]
 Descargá la app y disfrutá los beneficios
 Descargar app

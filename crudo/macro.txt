@@ -1,6 +1,6 @@
 # fuente: Banco Macro · Beneficios
 # url: https://www.macro.com.ar/beneficios
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: 17976427
 # paginas: 1
 # caracteres: 9401

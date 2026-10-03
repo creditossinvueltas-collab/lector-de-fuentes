@@ -1,5 +1,5 @@
-# fuente: Banco Entre Rios - Beneficios
-# url: https://www.bancoentrerios.com.ar/personas/beneficios
+# fuente: Banco Entre Rios - Tarjetas de credito
+# url: https://www.bancoentrerios.com.ar/personas/tarjetas-credito
 # leido: 2026-10-03
 # hash: c9aa0232
 # paginas: 40

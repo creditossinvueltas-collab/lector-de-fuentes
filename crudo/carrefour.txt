@@ -1,15 +1,15 @@
 # fuente: Carrefour · Descuentos bancarios
 # url: https://www.carrefour.com.ar/descuentos-bancarios
-# leido: 2026-10-02
-# hash: 42b801c0
+# leido: 2026-10-03
+# hash: f45afad4
 # paginas: 1
-# caracteres: 60668
+# caracteres: 57713
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
 
-Hoy con Cuenta Digital Carrefour Banco 15% de descuento ACUMULABLE
-Aprovechá y hacé tu compra del Super 🛒 con beneficio
+Te regalamos $5.000 de descuento en tu compra del Super 🛒 Solo disponible para pedidos con Entrega Inmediata
+Pedí y recibí tu pedido con descuento en 1 HORA
 ELEGÍ TU MÉTODO DE ENTREGA
 App Carrefour
 Promociones
@@ -128,11 +128,6 @@ Todos los lunes de Octubre
 15% de descuento en tu compra Acumulable con todas las promos
 Tope de $15.000. Exclusivo con tarjeta de crédito de Mercado Pago (física y QR)
 BENEFICIO VÁLIDO EXCLUSIVAMENTE EN LA REPÚBLICA ARGENTINA, LOS DÍAS LUNES HASTA EL 31/10/2026. PARA PAGOS REALIZADOS A TRAVÉS DE LA TARJETA DE CRÉDITO (FÍSICA Y QR) EL BENEFICIO CONSISTE EN UN 15% DE DESCUENTO, CON TOPE MENSUAL POR CLIENTE DE $15.000 DE REINTEGRO, EN TODA TU COMPRA EN TODAS LAS SUCURSALES DE HIPERMERCADOS CARREFOUR, CARREFOUR MARKET, CARREFOUR EXPRESS Y CARREFOUR MAXI "EL “BENEFICIO”. NO VALIDO PARA WWW.CARREFOUR.COM.AR. NO INCLUYE CARNICERÍA, HUEVOS DE GALLINA, FRUTAS, VERDURAS, ELECTROS, BAZAR, FERRETERÍA, AUTOMOTOR, JUGUETERÍA LIBRERÍA, COCINA, JARDINERÍA, TEXTIL, OFERTÓN POR BULTO, PACK FAMILIAR NI PRECIO SÚPER BAJO. EL BENEFICIO ESTARÁ A CARGO DE INC S.A. Y SE REALIZARÁ EN LÍNEA DE CAJAS SOBRE EL PRECIO DE CONTADO. MERCADO PAGO NO ES UNA ENTIDAD FINANCIERA. LOS FONDOS EN CUENTAS DE PAGO NO SON DEPÓSITOS GARANTIZADOS. MERCADOLIBRE S.R.L. CUIT 30703088534, CASEROS 3039, PISO 2o, CABA”. PROMOCIÓN NO VÁLIDA PARA COMPRAS EN CUOTAS CON TARJETAS DE CRÉDITO EMITIDAS EN EL EXTERIOR, TARJETAS DE COMPRA Y/U ORDEN DE COMPRA Y/O SIMILARES EMITIDAS POR CARREFOUR ARGENTINA, COMPRAS ABONADAS EN EUROS,
-Todos los Sábados y Domingos de Octubre
-10%
-10% de descuento - En tu compra acumulable con todas las promos
-Sin tope. NO INCLUYE CARNICERÍA, FRUTAS, VERDURAS, ELECTRO, BAZAR, TEXTIL, PRODUCTOS DE VENTA POR BULTO Y EN PACK FAMILIAR.
-DESCUENTO EXCLUSIVO ABONANDO CON CUENTA DIGITAL DE CARREFOUR BANCO. VÁLIDO TODOS LOS SÁBADOS Y DOMINGOS DE OCTUBRE 2026 EN LAS TIENDAS HIPERMERCADOS CARREFOUR, CARREFOUR MARKET, CARREFOUR EXPRESS, CARREFOUR MAXI DE TODO EL PAÍS Y PARA COMPRAS ONLINE EN CARREFOUR.COM.AR Y EN LA APP DE CARREFOUR. APLICABLE TANTO A COMPRAS CON ENTREGA INMEDIATA COMO A COMPRAS CON ENTREGA PROGRAMADA. NO VÁLIDO EN COMERCIANTE.CARREFOUR.COM.AR. EL DESCUENTO SE HARÁ EFECTIVO EN EL ACTO, SIN TOPE, EXCLUSIVO SOLO PARA CONSUMO FAMILIAR. ACUMULABLE CON TODAS LAS PROMOCIONES VIGENTES. QUEDAN EXCLUIDOS DEL DESCUENTO ELECTRODOMÉSTICOS Y TECNOLOGÍA; CARNICERÍA: CARNE DE VACA, CERDO, POLLO, ACHURAS Y EMBUTIDOS; LECHES INFANTILES Y MATERNIZADAS ETAPA 1 Y 2; FRUTAS Y VERDURAS; BAZAR; TEXTIL; PRODUCTOS DE VENTA AL BULTO Y PACK FAMILIAR; ENVASES; BODEGAS CHANDON, LEONCIO ARIZU, TERRAZA DE LOS ANDES, TRUMPETER, LA RURAL, RUTINI WINES, BODEGA 33 SUR, CATENA ZAPATA Y GRUPO CLOS DE LOS 7. NO VÁLIDO PARA AQUELLOS PRODUCTOS CUYA LEYENDA INDIQUE QUE SON VENDIDOS Y ENTREGADOS DIRECTAMENTE POR EL DISTRIBUIDOR/FABRICANTE, A TRAVÉS DE LA PLATAFORMA MARKETPLACE DE CARREFOUR. LA PROMOCIÓN NO APLICA A PAGOS A TRAVÉS DE BILLETERAS VIRTUALES Y/O PLATAFORMAS DE PAGO ONLINE (POR EJEMPLO, PAYPAL, TODO PAGO, MERCADO PAGO, UALÁ, ETC.) PARA MÁS INFORMACIÓN INGRESAR A BANCODESERVICIOSFINANCIEROS.COM.AR. OTORGA BANCO DE SERVICIOS FINANCIEROS S.A. CUIT 30-69726589-5, INSCRIPTA EN EL RPC EL 14/07/1998, CON N° 5705, L II DE SA, BERUTI 2915, CABA (C1425BBI). EL DESCUENTO APLICA ÚNICAMENTE ABONANDO LA COMPRA CON UN ÚNICO MEDIO DE PAGO ADHERIDO A LA PROMOCIÓN. NO APLICA EN OPERACIONES REALIZADAS CON DOS O MÁS MEDIOS DE PAGO COMBINADOS.
 Todos los días de Octubre
 3cuotas
 sin interés
@@ -329,17 +324,6 @@ Rusticas
 Cerveza
 Yerba
 Seleccioná un carrito de compra
-[imagen: Acerca de tu privacidad]
-Nos preocupamos por tu privacidad
-Tanto INC S.A. como sus sociedades sucesoras y/o cesionarias y/o sus accionistas y/o controlantes y/o controladas almacenan y/o acceden a la información de un dispositivo, como los identificadores únicos en las cookies para tratar los datos personales. Se pueden aceptar o gestionar las preferencias haciendo click en el enlace que aparece a continuación o en cualquier momento en https://www.carrefour.com.ar/legales. Estas preferencias serán procesadas y no afectarán a los datos de navegación.
---
-Tanto nosotros como nuestros asociados tratamos los datos para proporcionar:
-Almacenar o acceder a información en un dispositivo. Datos de localización geográfica precisa e identificación mediante las características de dispositivos. anuncios y contenido personalizados, medición de anuncios y del contenido, información sobre el público y desarrollo de productos..
-Lista de asociados (proveedores)
-Aceptar todo
-Rechazar todo
-Gestionar preferencias
-[imagen: Nos preocupamos por tu privacidad]
 TU OPINIÓN
 Compartinos tu experiencia para ayudarnos a mejorar
 DEJAR MI COMENTARIO

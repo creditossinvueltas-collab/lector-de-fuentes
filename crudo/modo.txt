@@ -1,9 +1,9 @@
 # fuente: MODO · Promociones
 # url: https://www.modo.com.ar/promos
-# leido: 2026-10-02
-# hash: f77566aa
+# leido: 2026-10-03
+# hash: ccf76276
 # paginas: 1
-# caracteres: 8014
+# caracteres: 8026
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -171,6 +171,8 @@ DESTACADAS
 [imagen: Hub card promo: Samsung]
 20% de reintegro en Supermercados Chalita
 [imagen: Hub card promo: Supermercados Chalita]
+15% de reintegro en Farmacias del Puente
+[imagen: Hub card promo: Farmacias del Puente]
 30% de reintegro en El Paso Oeste Uru
 [imagen: Hub card promo: El Paso Oeste Uru]
 30% de reintegro en ChangoMás
@@ -222,8 +224,6 @@ DESTACADAS
 [imagen: Hub card promo: Nutrican]
 20% de reintegro en El Tunel
 [imagen: Hub card promo: El Tunel]
-20% de reintegro en Supercoop CABA
-[imagen: Hub card promo: Supercoop CABA]
 Cargar más promos
 [imagen: facebook]
 [imagen: facebook]

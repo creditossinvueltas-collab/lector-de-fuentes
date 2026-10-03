@@ -1,9 +1,9 @@
 # fuente: Coto · Descuentos
 # url: https://www.coto.com.ar/descuentos
-# leido: 2026-10-02
-# hash: e9eba58e
+# leido: 2026-10-03
+# hash: cfac7c9b
 # paginas: 1
-# caracteres: 4398
+# caracteres: 5611
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -25,13 +25,13 @@ Aire Libre
 Descuentos en COTO
 SELECCIONÁ EL DÍA PARA VER LAS PROMOS
 [imagen: Ver días anteriores]
-Viernes 2
 Sabado 3
 Domingo 4
 Lunes 5
 Martes 6
 Miercoles 7
 Jueves 8
+Viernes 9
 [imagen: Ver días siguientes]
 Online
 Sucursales
@@ -40,7 +40,18 @@ Sucursales
 12-18 cuotas sin interés con tarjetas de crédito American Express de American express.
 Prod. Seleccionados Electro, Ferreteria, Automotor, Bazar, deportes, Muebles, camping, Jardineria, Rodados, decoracion. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
 Online
+[imagen: 12 CUOTAS SIN INTERÉS]
+12 CUOTAS SIN INTERÉS
+SGTO UNICO 3-6-9-12 cuotas sin interés con tarjetas de crédito visa y MasterCard
+Prod. Seleccionados Electro, ferretería, automotor, Juguetería, deportes, camping, rodados, librería, bazar, libros, muebles, jardinería, Acc. de iluminación, decoración, blanquería, colchones. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
+[imagen: 6 CUOTAS SIN INTERÉS]
+6 CUOTAS SIN INTERÉS
+3-6 cuotas sin interés con tarjetas de crédito visa y MasterCard.
+Prod. Seleccionados Electro, ferretería, automotor, Juguetería, deportes, camping, rodados, librería, bazar, libros, muebles, jardinería, Acc. de iluminación, decoración, blanquería, colchones. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
 [imagen: 18 CUOTAS SIN INTERÉS]
+18 CUOTAS SIN INTERÉS
+3-6-9-12-15-18 cuotas sin interés con tarjetas de crédito visa y MasterCard.
+Prod. seleccionados de Electro, ferretería, automotor, librería, camping, deportes, juguetería, rodados, Bazar, muebles, jardinería, decoración, blanquería, colchones. Vigencia Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
 18 CUOTAS SIN INTERÉS
 3-6-9-12-18 cuotas sin interés con tarjetas de crédito MasterCard del Banco Galicia.
 Prod. Seleccionados Ferretería, automotor, Bazar, decoracion, Jardineria, Libros, Muebles. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
@@ -56,11 +67,9 @@ Prod. Seleccionados de Electro, Automotor, ferretería, deportes, muebles, jardi
 6 CUOTAS SIN INTERÉS
 6 cuotas sin interés con tarjetas de crédito Visa y Mastercard.
 Aplica en electrodomésticos. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
-[imagen: 12 CUOTAS SIN INTERÉS]
 12 CUOTAS SIN INTERÉS
 3-6-9-12 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Prod. Seleccionados Ferretería, automotor, bazar, decoración, blanquería, colchones. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
-[imagen: 6 CUOTAS SIN INTERÉS]
 6 CUOTAS SIN INTERÉS
 3-6 cuotas sin interés con tarjetas de crédito visa y MasterCard.
 Aplica en electrodomésticos. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
@@ -70,6 +79,9 @@ Prod. Seleccionados de ferretería, automotor, juguetería, deportes, camping, r
 6 CUOTAS SIN INTERÉS
 3-6 cuotas sin interés con tarjetas de crédito Visa, Mastercard y American express.
 Productos de Electro. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales
+18 CUOTAS SIN INTERÉS
+3-6-9-12-18 cuotas sin interés con tarjetas de crédito Visa y Mastercard.
+Prod. Seleccionados de Electro Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.
 18 CUOTAS SIN INTERÉS
 3-6-9-12-18 cuotas sin interés con tarjetas de crédito Cabal.
 Prod. Seleccionados de Electro. Del 01/10 al 31/10/2026 Aplican exclusiones. Ver legales.

@@ -1,9 +1,9 @@
 # fuente: Banco Galicia - Beneficios
 # url: https://beneficios.galicia.ar/
-# leido: 2026-10-02
-# hash: 929dc15e
+# leido: 2026-10-03
+# hash: fcf40890
 # paginas: 1
-# caracteres: 3902
+# caracteres: 3914
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -132,20 +132,20 @@ Combustible
 [imagen: QR Code]
 Sábado
 Próximos eventos
-[imagen: THE LEMON TWIGS en C Art Media]
+[imagen: Órbita Casa Futuro]
 Entretenimiento
+25% de ahorro y hasta 6 cuotas sin interés
+Todos los días
+[imagen: Padel House]
+25% de ahorro
+Todos los días
+[imagen: Babolat Padel Center]
+25% de ahorro
+Todos los días
+[imagen: THE LEMON TWIGS en C Art Media]
 Hasta 6 cuotas sin interés
 Todos los días
 [imagen: PARALAMAS NONPALIDECE Movistar Arena]
-Hasta 6 cuotas sin interés
-Todos los días
-[imagen: Mate]
-Hasta 12 cuotas sin interés
-Todos los días
-[imagen: Mate]
-Hasta 6 cuotas sin interés
-Todos los días
-[imagen: Órbita Casa Futuro]
 Hasta 6 cuotas sin interés
 Todos los días
 Comprá desde casa 📦

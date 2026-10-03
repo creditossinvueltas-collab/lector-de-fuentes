@@ -1,6 +1,6 @@
 # fuente: Bancor - Promociones
 # url: https://www.bancor.com.ar/promociones
-# leido: 2026-10-02
+# leido: 2026-10-03
 # hash: 0283a395
 # paginas: 1
 # caracteres: 3200

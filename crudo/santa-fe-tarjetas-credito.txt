@@ -1,9 +1,9 @@
-# fuente: Banco Santa Fe - Beneficios
-# url: https://www.bancosantafe.com.ar/personas/beneficios
+# fuente: Banco Santa Fe - Tarjetas de credito
+# url: https://www.bancosantafe.com.ar/personas/tarjetas-credito
 # leido: 2026-10-03
-# hash: 8bc7ef8e
+# hash: dbade2de
 # paginas: 44
-# caracteres: 91568
+# caracteres: 91524
 # ---------------------------------------------------------------
 # Esto es el texto tal cual lo mostró la página. No está interpretado.
 # ---------------------------------------------------------------
@@ -1345,12 +1345,10 @@ Farmacia Zentner
 10% de descuento y 3 cuotas sin interés en Farmacia Zentner
 Todos los Miércoles.
 Desde el 01/06/2026 hasta el 31/12/2026.
-[imagen: arrow right]
 Farmacia Welschen
 10% de descuento y 3 cuotas sin interés en Farmacia Welschen
 Todos los Miércoles.
 Desde el 01/06/2026 hasta el 31/12/2026.
-[imagen: arrow right]
 Farmacia Sellares
 10% de descuento y 3 cuotas sin interés en Farmacia Sellares
 Todos los Miércoles.
