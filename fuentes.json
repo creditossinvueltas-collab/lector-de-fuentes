@@ -48,6 +48,15 @@
     "seccion": "body"
   },
   {
+    "nombre": "Coto · Legales (promociones bancarias)",
+    "archivo": "coto-legales",
+    "url": "https://www.coto.com.ar/legales/",
+    "seccion": "body",
+    "candidata": true,
+    "espera_extra": 12000,
+    "nota": "El texto legal completo de cada promo: porcentaje, dias, fechas, tope, banco y canal. Mucho mas rico que /descuentos."
+  },
+  {
     "nombre": "Banco Galicia - Beneficios",
     "archivo": "galicia",
     "url": "https://beneficios.galicia.ar/",

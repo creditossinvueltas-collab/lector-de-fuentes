@@ -173,6 +173,20 @@ const DESPUES = 4; // líneas hacia abajo: los días y las fechas
 const esImagen = (l) => /^\[imagen:/i.test(l.trim());
 
 // ---------------------------------------------------------------------------
+// ¿De qué banco es esta página? Se saca de la frase que el propio banco
+// escribe: "...con tu Tarjeta de Crédito Banco San Juan y MODO." Es la misma
+// frase que usa catalogo.mjs para dar de alta la entidad, así que los nombres
+// coinciden siempre. Si no aparece, la fuente no declara entidad y sus promos
+// quedan como propuesta: publicar sin saber qué tarjeta hace falta sería
+// mostrarle a la gente promos que no puede usar.
+// ---------------------------------------------------------------------------
+const ENTIDAD = /Tarjeta de Cr[ée]dito\s+(Banco\s+[A-ZÁÉÍÓÚÑ][A-Za-zÁÉÍÓÚÜÑáéíóúüñ]*(?:\s+[A-ZÁÉÍÓÚÑ][A-Za-zÁÉÍÓÚÜÑáéíóúüñ]*){0,3}?)\s+y\s+MODO/;
+const entidadDe = (texto) => {
+  const m = texto.match(ENTIDAD);
+  return m ? m[1].replace(/\s+/g, ' ').trim() : null;
+};
+
+// ---------------------------------------------------------------------------
 // Fuentes que SON el comercio. En la web de un supermercado, "10% de descuento
 // en tu compra" es un descuento EN ESE supermercado: el comercio es la cadena,
 // y el "en ..." de la frase es la forma de pago, no un local.
@@ -299,6 +313,8 @@ function main() {
     const nombre = cab.fuente || a.replace(/\.txt$/, '');
     const lineas = texto.split('\n');
 
+    const entidad = entidadDe(texto);
+    const leido = cab.leido || null;
     const halladas = escanear(lineas, nombre, a);
     const t = halladas.filter((p) => p.descartada === 'techo').length;
     techos += t;
@@ -317,10 +333,10 @@ function main() {
     const c = [], inc = [];
     for (const p of unicas) {
       const f = faltantes(p, url);
-      (f.length ? inc : c).push({ ...p, url, fuente_nombre: nombre, faltan: f });
+      (f.length ? inc : c).push({ ...p, url, fuente_nombre: nombre, entidad, faltan: f });
     }
     completas.push(...c); incompletas.push(...inc);
-    porFuente.push({ nombre, archivo: a, url, paginas: cab.paginas || '?', halladas: reales.length, unicas: unicas.length, completas: c.length, incompletas: inc.length, techos: t });
+    porFuente.push({ nombre, archivo: a, url, entidad, leido, paginas: cab.paginas || '?', halladas: reales.length, unicas: unicas.length, completas: c.length, incompletas: inc.length, techos: t, promos: [...c, ...inc] });
   }
 
   mkdirSync(SALIDA, { recursive: true });
@@ -352,43 +368,97 @@ function main() {
   if (soloInforme) { console.log(lineasInf.slice(0, 12).join('\n')); return; }
 
   // ---- SQL ----
+  // Una corrida por fuente, en su propio bloque. Así cada fuente queda
+  // registrada aparte y, si una falla al correr el SQL, no se lleva puestas
+  // a las demás.
+  //
+  // Sólo se cierran las fuentes leídas en esta misma corrida. Si una fuente
+  // falló, su archivo de crudo quedó viejo: no se la cierra, porque "no verla"
+  // no es lo mismo que "ya no está", y cerrarla haría que sus promos
+  // empezaran a contar corridas sin ver sin motivo.
+  const ultimaLectura = porFuente.map((f) => f.leido).filter(Boolean).sort().pop() || hoy;
+
   const sql = [
     `-- Promociones leídas por el robot el ${hoy}.`,
     `-- Generado por convertir.mjs. No editar a mano: se regenera en cada corrida.`,
     '--',
     `-- Completas: ${completas.length} · Incompletas: ${incompletas.length}`,
     '--',
-    '-- Todo entra por proponer_promo(), que descarta sola las repetidas y las',
-    '-- que les faltan datos mínimos. Nada se publica acá: quedan pendientes.',
-    '',
-    'begin;',
+    '-- Las completas entran por publicar_del_robot(): se publican en ámbar',
+    '-- ("sin confirmar") sólo si se puede resolver el banco y sus tarjetas.',
+    '-- Si no, esa misma función deja una propuesta en vez de publicar.',
+    '-- Las incompletas entran por proponer_promo() y quedan pendientes.',
+    '--',
+    `-- Requiere las migraciones 18, 19 y 20 corridas.`,
     '',
   ];
-  const emitir = (p, nota) => {
-    sql.push(`-- ${nota}: ${p.fuente_nombre}`);
-    sql.push(`select public.proponer_promo(`);
-    sql.push(`  p_corrida        => :corrida,`);
-    sql.push(`  p_comercio       => ${q(p.comercio)},`);
-    sql.push(`  p_titulo         => ${q(p.titulo.slice(0, 140))},`);
-    sql.push(`  p_tipo           => ${q(p.tipo)}::public.tipo_promo,`);
-    sql.push(`  p_fecha_inicio   => ${p.fecha_inicio ? q(p.fecha_inicio) + '::date' : 'current_date'},`);
-    sql.push(`  p_fecha_fin      => ${q(p.fecha_fin)}::date,`);
-    sql.push(`  p_porcentaje     => ${n(p.porcentaje)},`);
-    sql.push(`  p_cuotas         => ${n(p.cuotas)},`);
-    sql.push(`  p_tope_reintegro => ${n(p.tope)},`);
-    sql.push(`  p_dias_semana    => ${p.dias ? arr(p.dias) : `'{1,2,3,4,5,6,7}'::smallint[]`},`);
-    sql.push(`  p_condiciones    => ${q(p.condiciones)},`);
-    sql.push(`  p_fuente_url     => ${q(p.url)}`);
-    sql.push(`);`);
+
+  const args = (p) => [
+    `    p_comercio       => ${q(p.comercio)},`,
+    `    p_titulo         => ${q(p.titulo.slice(0, 140))},`,
+    `    p_tipo           => ${q(p.tipo)}::public.tipo_promo,`,
+    `    p_fecha_inicio   => ${p.fecha_inicio ? q(p.fecha_inicio) + '::date' : 'current_date'},`,
+    `    p_fecha_fin      => ${q(p.fecha_fin)}::date,`,
+    `    p_porcentaje     => ${n(p.porcentaje)},`,
+    `    p_cuotas         => ${p.cuotas === null || p.cuotas === undefined ? 'null::smallint' : p.cuotas + '::smallint'},`,
+    `    p_tope_reintegro => ${n(p.tope)},`,
+    `    p_dias_semana    => ${p.dias ? arr(p.dias) : `'{1,2,3,4,5,6,7}'::smallint[]`},`,
+    `    p_condiciones    => ${q(p.condiciones)},`,
+    `    p_fuente_url     => ${q(p.url)}`,
+  ];
+
+  for (const f of porFuente) {
+    if (!f.promos.length) continue;
+    const alDia = f.leido === ultimaLectura;
+    const comp = f.promos.filter((p) => !p.faltan.length);
+    const inco = f.promos.filter((p) => p.faltan.length);
+
+    sql.push(`-- =====================================================================`);
+    sql.push(`-- ${f.nombre}`);
+    sql.push(`--   entidad: ${f.entidad || '(la página no la declara: todo queda como propuesta)'}`);
+    sql.push(`--   leída: ${f.leido || '?'}${alDia ? '' : '   <- VIEJA: no se cierra la lectura'}`);
+    sql.push(`--   completas: ${comp.length} · incompletas: ${inco.length}`);
+    sql.push(`-- =====================================================================`);
+    sql.push(`do $bloque$`);
+    sql.push(`declare v_corrida bigint;`);
+    sql.push(`begin`);
+    sql.push(`  v_corrida := public.abrir_corrida_de(${q(f.nombre)}, ${q(f.url)});`);
     sql.push('');
-  };
-  for (const p of completas) emitir(p, 'COMPLETA');
-  for (const p of incompletas) emitir(p, `INCOMPLETA (falta ${p.faltan.join(' + ')})`);
-  sql.push('commit;');
-  writeFileSync(join(SALIDA, `propuestas-${hoy}.sql`), sql.join('\n'), 'utf8');
+
+    for (const p of comp) {
+      sql.push(`  -- ${p.comercio}`);
+      sql.push(`  perform public.publicar_del_robot(`);
+      sql.push(`    p_corrida        => v_corrida,`);
+      sql.push(...args(p));
+      sql.push(`   ,p_entidad        => ${q(f.entidad)}`);
+      sql.push(`  );`);
+      // Verla de nuevo es lo que evita que se suspenda sola
+      sql.push(`  perform public.marcar_vista(v_corrida, ${q(p.comercio)}, ${q(p.tipo)}::public.tipo_promo, ${n(p.porcentaje)}, ${p.cuotas === null || p.cuotas === undefined ? 'null::smallint' : p.cuotas + '::smallint'}, ${arr(p.dias)}, ${q(p.fecha_fin)}::date);`);
+    }
+    if (comp.length) sql.push('');
+
+    for (const p of inco) {
+      sql.push(`  -- falta ${p.faltan.join(' + ')}: ${p.comercio || '(sin comercio)'}`);
+      if (!p.comercio || !p.fecha_fin) { sql.push(`  -- (sin comercio o sin fecha de fin no entra ni como propuesta)`); continue; }
+      sql.push(`  perform public.proponer_promo(`);
+      sql.push(`    p_corrida        => v_corrida,`);
+      sql.push(...args(p));
+      sql.push(`  );`);
+    }
+    sql.push('');
+    if (alDia) {
+      sql.push(`  perform public.cerrar_lectura_fuente(v_corrida);`);
+    } else {
+      sql.push(`  -- lectura vieja: no se cierra, para no suspender promos por error`);
+    }
+    sql.push(`  perform public.cerrar_corrida(v_corrida, 'ok', ${f.promos.length}, 0, 0, 0);`);
+    sql.push(`end $bloque$;`);
+    sql.push('');
+  }
+  writeFileSync(join(SALIDA, `promos-${hoy}.sql`), sql.join('\n'), 'utf8');
 
   console.log(`completas=${completas.length} incompletas=${incompletas.length} techos=${techos}`);
-  console.log(`salida/_informe.md y salida/propuestas-${hoy}.sql`);
+  console.log(`salida/_informe.md y salida/promos-${hoy}.sql`);
 }
 
 main();

@@ -145,6 +145,11 @@ async function leerUna(navegador, fuente) {
     await pagina.goto(fuente.url, { waitUntil: 'domcontentloaded', timeout: ESPERA_MS });
     // Muchas páginas cargan las promos después; les damos tiempo y bajamos un poco
     await pagina.waitForTimeout(4000);
+    // Algunas tardan bastante más. Coto arma su listado de legales con
+    // JavaScript y tarda unos 13 segundos. En vez de hacer esperar de más a
+    // las otras fuentes, se le da tiempo extra sólo a la que lo necesita,
+    // con "espera_extra" en fuentes.json (en milisegundos).
+    if (fuente.espera_extra) await pagina.waitForTimeout(fuente.espera_extra);
     await pagina.evaluate(() => window.scrollTo(0, document.body.scrollHeight / 2));
     await pagina.waitForTimeout(2500);
     await pagina.evaluate(() => window.scrollTo(0, document.body.scrollHeight));
