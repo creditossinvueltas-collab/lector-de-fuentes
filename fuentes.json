@@ -59,14 +59,18 @@
     "archivo": "santander",
     "url": "https://www.santander.com.ar/personas/beneficios",
     "seccion": "body",
-    "candidata": true
+    "candidata": true,
+    "activa": false,
+    "nota": "Pausada 2026-10-02: el sitio corta la conexion (ERR_HTTP2_PROTOCOL_ERROR). Hay que encontrarle otra URL."
   },
   {
     "nombre": "BBVA - Beneficios",
     "archivo": "bbva",
     "url": "https://www.bbva.com.ar/beneficios/",
     "seccion": "body",
-    "candidata": true
+    "candidata": true,
+    "activa": false,
+    "nota": "Pausada 2026-10-02: la pagina devuelve 158 caracteres, carga todo por JavaScript. Hay que encontrarle otra URL."
   },
   {
     "nombre": "Credicoop - Beneficios",
@@ -165,5 +169,69 @@
     "url": "https://www.shell.com.ar/conductores/descuentos-vigentes.html",
     "seccion": "body",
     "candidata": true
+  },
+  {
+    "nombre": "Banco Entre Rios - Tarjetas de credito",
+    "archivo": "entre-rios-tarjetas-credito",
+    "url": "https://www.bancoentrerios.com.ar/personas/tarjetas-credito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
+  },
+  {
+    "nombre": "Banco Entre Rios - Tarjetas de debito",
+    "archivo": "entre-rios-tarjetas-debito",
+    "url": "https://www.bancoentrerios.com.ar/personas/tarjetas/debito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
+  },
+  {
+    "nombre": "Banco San Juan - Tarjetas de credito",
+    "archivo": "san-juan-tarjetas-credito",
+    "url": "https://www.bancosanjuan.com/personas/tarjetas-credito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
+  },
+  {
+    "nombre": "Banco San Juan - Tarjetas de debito",
+    "archivo": "san-juan-tarjetas-debito",
+    "url": "https://www.bancosanjuan.com/personas/tarjetas/debito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
+  },
+  {
+    "nombre": "Banco Santa Cruz - Tarjetas de credito",
+    "archivo": "santa-cruz-tarjetas-credito",
+    "url": "https://www.bancosantacruz.com/personas/tarjetas-credito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
+  },
+  {
+    "nombre": "Banco Santa Cruz - Tarjetas de debito",
+    "archivo": "santa-cruz-tarjetas-debito",
+    "url": "https://www.bancosantacruz.com/personas/tarjetas/debito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
+  },
+  {
+    "nombre": "Banco Santa Fe - Tarjetas de credito",
+    "archivo": "santa-fe-tarjetas-credito",
+    "url": "https://www.bancosantafe.com.ar/personas/tarjetas-credito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
+  },
+  {
+    "nombre": "Banco Santa Fe - Tarjetas de debito",
+    "archivo": "santa-fe-tarjetas-debito",
+    "url": "https://www.bancosantafe.com.ar/personas/tarjetas/debito",
+    "seccion": "body",
+    "candidata": true,
+    "proposito": "catalogo"
   }
 ]

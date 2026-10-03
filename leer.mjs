@@ -214,7 +214,12 @@ async function leerUna(navegador, fuente) {
 }
 
 async function main() {
-  const fuentes = JSON.parse(await readFile('fuentes.json', 'utf8'));
+  const todas = JSON.parse(await readFile('fuentes.json', 'utf8'));
+  // Una fuente con "activa": false queda en el archivo pero no se lee.
+  // Sirve para pausar un sitio que se rompió sin perder la URL ni el motivo.
+  const fuentes = todas.filter((f) => f.activa !== false);
+  const pausadas = todas.length - fuentes.length;
+  if (pausadas > 0) console.log(`(${pausadas} fuentes pausadas, no se leen)`);
   await mkdir(CARPETA, { recursive: true });
 
   // CHROMIUM_PATH solo se usa para probar en máquinas donde el navegador ya está instalado
